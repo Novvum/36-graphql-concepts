@@ -230,7 +230,7 @@ All the translations for this repo will be listed below:
 
   ### Videos
 
- * 🎥 [Typescript Union and Intersection Types- Interface vs Type Aliases - Angular University](https://www.youtube.com/watch?v=76io0UBS6fA)
+
 
  **[⬆ Back to Top](#table-of-contents)**
 
