@@ -203,9 +203,6 @@ All the translations for this repo will be listed below:
 
  * 📜 [GraphQL introspection and introspection queries - David Mráz](https://graphqlmastery.com/blog/graphql-introspection-and-introspection-queries)
 
- ### Videos
-
- * 🎥 [Title - Youtube Name]([Paste Link here])
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -215,6 +212,7 @@ All the translations for this repo will be listed below:
 ### Articles
 
  * 📜 [Fields and arguments - flaviocopes](https://flaviocopes.com/graphql/#fields-and-arguments)
+ * 📜 [Passing Arguments - GraphQL.org](https://graphql.org/graphql-js/passing-arguments/)
 
 **[⬆ Back to Top](#table-of-contents)**
 
