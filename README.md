@@ -201,11 +201,11 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
-## 9. Comments and Descriptions
+## 9. Introspection
 
 ### Articles
 
- * 📜 [Title - Author]([Paste Link here])
+ * 📜 [GraphQL introspection and introspection queries - David Mráz](https://graphqlmastery.com/blog/graphql-introspection-and-introspection-queries)
 
  ### Videos
 
