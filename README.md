@@ -325,6 +325,7 @@ All the translations for this repo will be listed below:
  * 📜 [Understanding schema concepts - Apollo Documentation](https://www.apollographql.com/docs/apollo-server/essentials/schema.html)
  * 📜 [Graphql Server Basics: Schemas Explained - Prisma Documentation](https://www.prisma.io/blog/graphql-server-basics-the-schema-ac5e2950214e)
  * 📜 [GraphQL Schema Language Cheat Sheet - Hafiz Ismail](https://wehavefaces.net/graphql-shorthand-notation-cheatsheet-17cd715861b6)
+ * 📜 [GraphQL Server Basics: GraphQL Schemas, TypeDefs & Resolvers Explained - Prisma](https://www.prisma.io/blog/graphql-server-basics-the-schema-ac5e2950214e)
  
 
  ### Videos
@@ -340,7 +341,10 @@ All the translations for this repo will be listed below:
 
  * 📜 [GraphQL Resolvers: Best Practices - Mark Stuart](https://medium.com/paypal-engineering/graphql-resolvers-best-practices-cd36fdbcef55)
  * 📜 [Overview of Resolvers - Graphcool Documentation](https://www.graph.cool/docs/reference/functions/resolvers-su6wu3yoo2)
-
+ * 📜 [GraphQL Server Basics: GraphQL Schemas, TypeDefs & Resolvers Explained - Prisma](https://www.prisma.io/blog/graphql-server-basics-the-schema-ac5e2950214e)
+ * 📜 [GraphQL Resolvers: Best Practices - Mark Stuart](https://medium.com/paypal-engineering/graphql-resolvers-best-practices-cd36fdbcef55)
+ 
+ 
  ### Videos
 
  * 🎥 [GraphQL Tutorial #9, The Resolve Function - The Net Ninja](https://www.youtube.com/watch?v=NWod5SFW13s)
@@ -354,7 +358,8 @@ All the translations for this repo will be listed below:
 
  * 📜 [GraphQL Context and Services - Eric Clemmons](https://medium.com/@ericclemmons/graphql-context-services-6510269ef5a1)
  * 📜 [Learning about Execution and Context - GraphQL](https://graphql.org/learn/execution/)
-
+ * 📜 [How does one set up database or other context in a graphql resolver - StackOverflow](https://stackoverflow.com/questions/44220597/how-does-one-set-up-database-or-other-context-in-a-graphql-resolver)
+ 
 **[⬆ Back to Top](#table-of-contents)**
 
 
@@ -567,6 +572,7 @@ All the translations for this repo will be listed below:
  * 📜 [GraphQL best practices for GraphQL schema design - David Mraz](https://graphqlmastery.com/blog/graphql-best-practices-for-graphql-schema-design)
  * 📜 [GraphQL Schema Design: Building Evolvable Schemas - Marc-André Giroux](https://blog.apollographql.com/graphql-schema-design-building-evolvable-schemas-1501f3c59ed5)
  * 📜 [Writing a Graphql Schema - Eitan Frailich](https://github.com/davidyaha/graphql-workshop/blob/master/manuals/step-2-writing-a-schema.md)
+ * 📜 [Abstract Demand Oriented Schema - Apollo](https://principledgraphql.com/agility#4-abstract-demand-oriented-schema)  
  
  ### Videos
 
