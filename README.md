@@ -160,11 +160,9 @@ All the translations for this repo will be listed below:
 
 ### Articles
 
- 
+ * 📜 [Fields — Graphql.org](https://graphql.org/learn/schema/#object-types-and-fields)
 
- ### Videos
 
- * 🎥 [Your GraphQL field guide - Bojan Tomić](https://www.youtube.com/watch?v=ROwICdehlb0)
 
 **[⬆ Back to Top](#table-of-contents)**
 
