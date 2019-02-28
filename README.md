@@ -425,7 +425,7 @@ All the translations for this repo will be listed below:
 ### Articles
 
  * 📜 [The ultimate guide to Schema Stitching in GraphQL - Rishichandra Wawhal](https://blog.hasura.io/the-ultimate-guide-to-schema-stitching-in-graphql-f30178ac0072/)
- * 📜 [GraphQL Stitching 101 - Artsy] (http://artsy.github.io/blog/2018/12/11/GraphQL-Stitching/)
+ * 📜 [GraphQL Stitching 101 - Artsy](http://artsy.github.io/blog/2018/12/11/GraphQL-Stitching/)
  * 📜 [Schema Stitching - Apollo Documentation](https://www.apollographql.com/docs/graphql-tools/schema-stitching.html)
  * 📜 [GraphQL Remote Schema Stitching in a Multi-Service Architecture - Suciu Vlad](https://medium.com/provablyfair/graphql-remote-schema-stitching-in-a-multi-service-architecture-ac329037f082)
 
@@ -526,7 +526,7 @@ All the translations for this repo will be listed below:
 
  * 📜 [An Introduction to GraphQL: Aliases - GraphQL Mastery](https://flaviocopes.com/graphql/#aliases)
  * 📜 [How to use GraphQL aliases - GraphQL Mastery](https://medium.com/graphql-mastery/graphql-quick-tip-aliases-567303a9ddc5)
- * 📜 [More GraphQL Concepts: Aliases - HowtoGraphQL]([https://www.howtographql.com/advanced/2-more-graphql-concepts/])
+ * 📜 [More GraphQL Concepts: Aliases - HowtoGraphQL](https://www.howtographql.com/advanced/2-more-graphql-concepts/)
 
 **[⬆ Back to Top](#table-of-contents)**
 
