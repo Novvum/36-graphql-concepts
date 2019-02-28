@@ -284,12 +284,13 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
-## 16. Schema Definition Language
+## 16. Schema Definition Language (SDL)
 
 ### Articles
 
  * 📜 [GraphQL SDL, Schema Definition Language - Prisma Documentation](https://www.prisma.io/blog/graphql-sdl-schema-definition-language-6755bcb9ce51)
  * 📜 [Three ways to represent your GraphQL schema - Sashko Stubailo](https://blog.apollographql.com/three-ways-to-represent-your-graphql-schema-a41f4175100d)
+ * 📜 [A GraphQL SDL Reference - Alligator](https://alligator.io/graphql/graphql-sdl/)
  
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -580,5 +581,7 @@ All the translations for this repo will be listed below:
 ### Articles
 
  * 📜 [GraphQL Log - withSpectrum](https://github.com/withspectrum/graphql-log)
+ * 📜 [Structured Logging - Apollo](https://principledgraphql.com/operations#9-structured-logging)
+ 
 
 **[⬆ Back to Top](#table-of-contents)**
