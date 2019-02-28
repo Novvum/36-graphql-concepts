@@ -267,7 +267,7 @@ All the translations for this repo will be listed below:
 ### Articles
 
  * 📜 [Type Extension - Facebook](https://facebook.github.io/graphql/draft/#TypeExtension)
- * 📜 [Modularizing your GraphQL Schema Code: Extending types in multiple files - Apollo(https://blog.apollographql.com/d7f71d5ed5f2#14ac)
+ * 📜 [Modularizing your GraphQL Schema Code: Extending types in multiple files - Apollo](https://blog.apollographql.com/d7f71d5ed5f2#14ac)
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -442,7 +442,7 @@ All the translations for this repo will be listed below:
 
 ### Articles
 
- * 📜 [Code-first - Hot Chocolate]([https://hotchocolate.io/docs/code-first])
+ * 📜 [Code-first - Hot Chocolate](https://hotchocolate.io/docs/code-first)
 
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -452,12 +452,12 @@ All the translations for this repo will be listed below:
 
 ### Articles
 
- * 📜 [The Problems of Schema-First GraphQL - Prisma]([https://www.prisma.io/blog/the-problems-of-schema-first-graphql-development-x1mn4cb0tyl3])
- * 📜 [Using a Schema-First Design As Your Single Source of Truth - Prisma]([https://nordicapis.com/using-a-schema-first-design-as-your-single-source-of-truth/])
+ * 📜 [The Problems of Schema-First GraphQL - Prisma](https://www.prisma.io/blog/the-problems-of-schema-first-graphql-development-x1mn4cb0tyl3)
+ * 📜 [Using a Schema-First Design As Your Single Source of Truth - Prisma](https://nordicapis.com/using-a-schema-first-design-as-your-single-source-of-truth/)
 
  ### Videos
 
- * 🎥 [Schema First Development - Prisma]([https://www.youtube.com/watch?v=SdWI7XaAeeY])
+ * 🎥 [Schema First Development - Prisma](https://www.youtube.com/watch?v=SdWI7XaAeeY)
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -466,12 +466,12 @@ All the translations for this repo will be listed below:
 
 ### Articles
 
- * 📜 [GraphQL Middleware - Prisma]([https://www.prisma.io/blog/graphql-middleware-zie3iphithxy])
+ * 📜 [GraphQL Middleware - Prisma](https://www.prisma.io/blog/graphql-middleware-zie3iphithxy)
 
 
  ### Videos
 
- * 🎥 [GraphQL Middleware - Ben Awad]([https://www.youtube.com/watch?v=0npsaFdrrFw])
+ * 🎥 [GraphQL Middleware - Ben Awad](https://www.youtube.com/watch?v=0npsaFdrrFw)
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -512,11 +512,11 @@ All the translations for this repo will be listed below:
 
 ### Articles
 
- * 📜 [GraphQL Tour: Variables - Clay Allsop]([https://medium.com/the-graphqlhub/graphql-tour-variables-58c6abd10f56])
- * 📜 [Introduction to GraphQL: GraphQL Variables - Flavioscopes]([https://flaviocopes.com/graphql/#graphql-variables])
+ * 📜 [GraphQL Tour: Variables - Clay Allsop](https://medium.com/the-graphqlhub/graphql-tour-variables-58c6abd10f56)
+ * 📜 [Introduction to GraphQL: GraphQL Variables - Flavioscopes](https://flaviocopes.com/graphql/#graphql-variables)
  ### Videos
 
- * 🎥 [GraphQL Tutorial #32: Query variables - The Net Ninja]([https://www.youtube.com/watch?v=Rvx1HLMK1-U])
+ * 🎥 [GraphQL Tutorial #32: Query variables - The Net Ninja](https://www.youtube.com/watch?v=Rvx1HLMK1-U)
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -524,8 +524,8 @@ All the translations for this repo will be listed below:
 
 ### Articles
 
- * 📜 [An Introduction to GraphQL: Aliases - GraphQL Mastery]([https://flaviocopes.com/graphql/#aliases])
- * 📜 [How to use GraphQL aliases - GraphQL Mastery]([https://medium.com/graphql-mastery/graphql-quick-tip-aliases-567303a9ddc5])
+ * 📜 [An Introduction to GraphQL: Aliases - GraphQL Mastery](https://flaviocopes.com/graphql/#aliases)
+ * 📜 [How to use GraphQL aliases - GraphQL Mastery](https://medium.com/graphql-mastery/graphql-quick-tip-aliases-567303a9ddc5)
  * 📜 [More GraphQL Concepts: Aliases - HowtoGraphQL]([https://www.howtographql.com/advanced/2-more-graphql-concepts/])
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -570,7 +570,7 @@ All the translations for this repo will be listed below:
  
  ### Videos
 
-* 🎥 [GraphQL Schema Design — Marc-André Giroux]( https://www.youtube.com/watch?v=pJamhW2xPYw)
+* 🎥 [GraphQL Schema Design — Marc-André Giroux](https://www.youtube.com/watch?v=pJamhW2xPYw)
 
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -580,6 +580,6 @@ All the translations for this repo will be listed below:
 
 ### Articles
 
- * 📜 [GraphQL Log - withSpectrum]([https://github.com/withspectrum/graphql-log])
+ * 📜 [GraphQL Log - withSpectrum](https://github.com/withspectrum/graphql-log)
 
 **[⬆ Back to Top](#table-of-contents)**
