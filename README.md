@@ -445,6 +445,8 @@ All the translations for this repo will be listed below:
 ### Articles
 
  * 📜 [Code-first - Hot Chocolate](https://hotchocolate.io/docs/code-first)
+ * 📜 [Introducing GraphQL Nexus Code First GraphQL Server Development - Prisma](https://www.prisma.io/blog/introducing-graphql-nexus-code-first-graphql-server-development-ll6s1yy5cxl5/)
+ 
 
 
 **[⬆ Back to Top](#table-of-contents)**
