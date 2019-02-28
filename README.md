@@ -10,7 +10,7 @@ This repository was created with the intention of helping developers master thei
 
 Credit to https://github.com/leonardomso/33-js-concepts for the inspiration.
 
-Thanks to @kelseyyim for getting this started!
+Thanks to [@kelseyyim](https://github.com/kelseyyim) for getting this started!
 
 ## Community
 
