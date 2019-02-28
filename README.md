@@ -30,7 +30,7 @@ All the translations for this repo will be listed below:
 6. **[Field](#6-field)**
 7. **[Relationships](#7-relationships)**
 8. **[Nested Info](#8-nested-info)**
-9. **[Comments and Descriptions](#9-comments-and-descriptions)**
+9. **[Introspection](#9-introspection)**
 10. **[Arguments](#10-arguments)**
 11. **[Union Types](#11-union-types)**
 12. **[DefaultValue](#12-defaultvalue)**
@@ -90,9 +90,6 @@ All the translations for this repo will be listed below:
  * 📜 [Front End Queries Made Easy - Rasheed Bustamam](https://medium.freecodecamp.org/graphql-front-end-queries-made-easy-68e9d9ded283)
  * 📜 [An Introduction to Graphql Queries - Alligator.io](https://alligator.io/graphql/introduction-graphql-queries/)
  * 📜 [Examples for GraphQL-Queries and Mutations - predict8](https://www.predic8.de/graphql-query-samples.htm)
- * 📜 [GraphQL Queries - Insomnia](https://support.insomnia.rest/article/61-graphql)
- * 📜 [Overview: GraphQL Query Parsing and Caching at the Edge - Monika Rathor](https://developer.akamai.com/blog/2018/10/29/overview-graphql-query-parsing-and-caching-edge)
- * 📜 [GraphQL introspection and introspection queries - David Mráz](https://graphqlmastery.com/blog/graphql-introspection-and-introspection-queries)
  ### Videos
 
  * 🎥 [GraphQL Tutorial #4 - Making Queries - The Net Ninja](https://www.youtube.com/watch?v=bX2e4FILf78)
@@ -554,6 +551,7 @@ All the translations for this repo will be listed below:
  * 📜 [Caching with GraphQL - What are the best options?](https://blog.usejournal.com/caching-with-graphql-what-are-the-best-options-e161b0f20e59)
  * 📜 [GraphQL VS Rest: Caching](https://philsturgeon.uk/api/2017/01/26/graphql-vs-rest-caching/)
  * 📜 [Learn Caching](https://graphql.org/learn/caching/)
+ * 📜 [Overview: GraphQL Query Parsing and Caching at the Edge - Monika Rathor](https://developer.akamai.com/blog/2018/10/29/overview-graphql-query-parsing-and-caching-edge)
 
 ### Videos
 
