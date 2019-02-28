@@ -225,9 +225,6 @@ All the translations for this repo will be listed below:
  * 📜 [Graphql Interfaces and Unions-How to design a Graphql Schema — David Mraz](https://graphqlmastery.com/blog/graphql-interfaces-and-unions-how-to-design-graphql-schema)
  * 📜 [Interfaces and Unions in GraphQL — AWS Documentation](https://docs.aws.amazon.com/appsync/latest/devguide/interfaces-and-unions.html)
 
-  ### Videos
-
-
 
  **[⬆ Back to Top](#table-of-contents)**
 
