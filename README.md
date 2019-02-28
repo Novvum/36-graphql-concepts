@@ -104,11 +104,12 @@ All the translations for this repo will be listed below:
 
 
  * 📜 [Mutations in GraphQL - Alexander Kondov](https://hackernoon.com/mutations-in-graphql-9ac6a28202a2)
- * 📜 [GraphQL Mutation Design: Anemic Mutations - Marc-André Giroux](https://medium.com/@__xuorig__/graphql-mutation-design-anemic-mutations-dd107ba70496)
+ * 📜 [Mutations - GraphQL.org](https://graphql.org/learn/queries/#mutations)
  * 📜 [GraphQL mutations: Partial updates implementation - Arnaud Bezançon](https://medium.com/workflowgen/graphql-mutations-partial-updates-implementation-bff586bda989)
  * 📜 [Modeling GraphQL Mutations - Oleg Ilyenko](https://techblog.commercetools.com/modeling-graphql-mutations-52d4369f73b1)
  * 📜 [Organizing GraphQL Mutations - Jeff Lowery](https://medium.freecodecamp.org/organizing-graphql-mutations-653306699f3d)
  * 📜 [GraphQL Mutation Design: Batch Updates - ](https://medium.com/@__xuorig__/graphql-mutation-design-batch-updates-ca2452f92833)
+ * 📜 [GraphQL Mutation Design: Anemic Mutations - Marc-André Giroux](https://medium.com/@__xuorig__/graphql-mutation-design-anemic-mutations-dd107ba70496)
  
  ### Videos
 
