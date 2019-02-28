@@ -275,7 +275,8 @@ All the translations for this repo will be listed below:
 ### Articles
 
  * 📜 [Schema Extension - Facebook](https://facebook.github.io/graphql/June2018/#sec-Schema-Extension)
-
+ * 📜 [The ultimate guide to schema stitching in GraphQL: Schema Extension - Rishichandra Wawhal](https://blog.hasura.io/the-ultimate-guide-to-schema-stitching-in-graphql-f30178ac0072/)
+ 
  ### Videos
 
  * 🎥 [Extending Schema Types: Full-stack GraphQL with Apollo, Meteor & React - LevelUpTuts](https://www.youtube.com/watch?v=A7NvopS75dI)
