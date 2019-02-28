@@ -37,7 +37,7 @@ All the translations for this repo will be listed below:
 13. **[Directives](#13-directives)**
 14. **[Type Extensions](#14-type-extension)**
 15. **[Schema Extension](#15-schema-extension)**
-16. **[Schema Definition Language](#16-schema-definition-language)**
+16. **[Schema Definition Language](#16-schema-definition-language-sdl)**
 
 ### Server
 17. **[Setting up a server](#17-setting-up-a-server)**
@@ -283,7 +283,7 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
-## 16. Schema Definition Language (SDL)
+## 16. Schema Definition Language - SDL
 
 ### Articles
 
