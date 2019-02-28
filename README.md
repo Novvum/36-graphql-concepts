@@ -1,6 +1,6 @@
 <h1 align="center">
     <br>
-  36 Concepts Every GraphQL Developer Should Know
+  36 Concepts Every GraphQL Developer Should Know - WIP
   <br><br>
 </h1>
 
@@ -160,7 +160,8 @@ All the translations for this repo will be listed below:
 
 ### Articles
 
- * 📜 [Fields — Graphql.org](https://graphql.org/learn/schema/#object-types-and-fields)
+ * 📜 [Fields — Graphql.org](https://graphql.org/learn/queries/#fields) 
+ * 📜 [Object Types & Fields — Graphql.org](https://graphql.org/learn/schema/#object-types-and-fields)
 
 
 
@@ -170,9 +171,10 @@ All the translations for this repo will be listed below:
 ## 7. Relationships
 
 ### Articles
+ 
 
- * 📜 [Explaining GraphQL Connections - Caleb Meredith](https://blog.apollographql.com/explaining-graphql-connections-c48b7c3d6976)
- * 📜 [Relations - Graphql Documentation](https://www.howtographql.com/graphql-scala/7-relations/)
+ * 📜 [Thinking in graphs - Graphql.Org](https://graphql.org/learn/thinking-in-graphs/)
+ * 📜 [ A simple graphql example with relationships - Graphql Documentation](https://blog.tylerbuchea.com/a-simple-graphql-example-with-relationships/)
 
  ### Videos
 
