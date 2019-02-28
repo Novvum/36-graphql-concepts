@@ -418,10 +418,6 @@ All the translations for this repo will be listed below:
  * 📜 [Adding a GraphQL endpoint - Apollo Documentation](https://www.apollographql.com/docs/apollo-server/v1/setup.html)
  * 📜 [FakerQL — The ultimate GraphQL endpoint for fake data - Jamie Barton](https://medium.com/@notrab/fakerql-is-ultimate-graphql-endpoint-for-fake-data-bd83f4cd6ad1)
  * 📜 [Running a scalable & reliable GraphQL endpoint with Serverless - Siddharth Gupta](https://serverless.com/blog/running-scalable-reliable-graphql-endpoint-with-serverless/)
-
- ### Videos
-
- * 🎥 [GraphQL with your REST endpoints with RestLink - Leigh Halli](https://www.youtube.com/watch?v=yvoGCY7N_fg)
  
 **[⬆ Back to Top](#table-of-contents)**
 
