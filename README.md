@@ -93,7 +93,6 @@ All the translations for this repo will be listed below:
  ### Videos
 
  * 🎥 [GraphQL Tutorial #4 - Making Queries - The Net Ninja](https://www.youtube.com/watch?v=bX2e4FILf78)
- * 🎥 [GraphQL and Live Queries - Rodrigo Munoz](https://www.youtube.com/watch?v=TUgYyWC22og)
  * 🎥 [Writing GraphQL Queries - Live Coding with Jesse](https://www.youtube.com/watch?v=k-pj9d0cC-0)
  
 **[⬆ Back to Top](#table-of-contents)**
@@ -103,7 +102,7 @@ All the translations for this repo will be listed below:
 
 ### Articles
 
- * 📜 [Understanding schema concepts - Apollo Documentation](https://www.apollographql.com/docs/apollo-server/essentials/schema.html)
+
  * 📜 [Mutations in GraphQL - Alexander Kondov](https://hackernoon.com/mutations-in-graphql-9ac6a28202a2)
  * 📜 [GraphQL Mutation Design: Anemic Mutations - Marc-André Giroux](https://medium.com/@__xuorig__/graphql-mutation-design-anemic-mutations-dd107ba70496)
  * 📜 [GraphQL mutations: Partial updates implementation - Arnaud Bezançon](https://medium.com/workflowgen/graphql-mutations-partial-updates-implementation-bff586bda989)
@@ -296,6 +295,7 @@ All the translations for this repo will be listed below:
 
  * 📜 [GraphQL SDL, Schema Definition Language - Prisma Documentation](https://www.prisma.io/blog/graphql-sdl-schema-definition-language-6755bcb9ce51)
  * 📜 [Three ways to represent your GraphQL schema - Sashko Stubailo](https://blog.apollographql.com/three-ways-to-represent-your-graphql-schema-a41f4175100d)
+ 
 
 **[⬆ Back to Top](#table-of-contents)**
 
