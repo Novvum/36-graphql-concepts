@@ -87,12 +87,10 @@ All the translations for this repo will be listed below:
 
  * 📜 [Queries and Mutations - Graphql.org](https://graphql.org/learn/queries/)
  * 📜 [The Anatomy of a Graphql Query — Sashko Stubailo](https://blog.apollographql.com/the-anatomy-of-a-graphql-query-6dffa9e9e747)
- * 📜 [Fetch data with queries - Apollo Documentation](https://www.apollographql.com/docs/tutorial/queries.html)
  * 📜 [Front End Queries Made Easy - Rasheed Bustamam](https://medium.freecodecamp.org/graphql-front-end-queries-made-easy-68e9d9ded283)
  * 📜 [An Introduction to Graphql Queries - Alligator.io](https://alligator.io/graphql/introduction-graphql-queries/)
  * 📜 [Examples for GraphQL-Queries and Mutations - predict8](https://www.predic8.de/graphql-query-samples.htm)
  * 📜 [GraphQL Queries - Insomnia](https://support.insomnia.rest/article/61-graphql)
- * 📜 [Permission Queries - Graph.cool](https://www.graph.cool/docs/reference/auth/authorization/permission-queries-iox3aqu0ee)
  * 📜 [Overview: GraphQL Query Parsing and Caching at the Edge - Monika Rathor](https://developer.akamai.com/blog/2018/10/29/overview-graphql-query-parsing-and-caching-edge)
  * 📜 [GraphQL introspection and introspection queries - David Mráz](https://graphqlmastery.com/blog/graphql-introspection-and-introspection-queries)
  ### Videos
