@@ -178,9 +178,7 @@ All the translations for this repo will be listed below:
 
  ### Videos
 
- * 🎥 [Type Relations - The Net Ninja](https://www.youtube.com/watch?v=-aQ_Io9m1GQ)
- * 🎥 [GraphQL Data Relationships - MicroUrb](https://www.youtube.com/watch?v=9EzZJz0QeEI)
- 
+ * 🎥 [Type Relations - The Net Ninja](https://www.youtube.com/watch?v=-aQ_Io9m1GQ) 
 
 **[⬆ Back to Top](#table-of-contents)**
 
