@@ -470,6 +470,8 @@ All the translations for this repo will be listed below:
 ### Articles
 
  * 📜 [GraphQL Middleware - Prisma](https://www.prisma.io/blog/graphql-middleware-zie3iphithxy)
+ * 📜 [Authentification and express middleware - Graphql.org](https://graphql.org/graphql-js/authentication-and-express-middleware/)
+ 
 
 
  ### Videos
