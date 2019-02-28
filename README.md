@@ -72,7 +72,7 @@ All the translations for this repo will be listed below:
 
 ### Articles
 
- * 📜 [Root Fields & Resolvers - Graphql.org ](https://graphql.org/learn/execution/)
+ * 📜 [Root Fields & Resolvers - Graphql.org](https://graphql.org/learn/execution/)
 
  ### Videos
 
@@ -108,7 +108,6 @@ All the translations for this repo will be listed below:
  * 📜 [Organizing GraphQL Mutations - Jeff Lowery](https://medium.freecodecamp.org/organizing-graphql-mutations-653306699f3d)
  * 📜 [GraphQL mutations: Partial updates implementation - Arnaud Bezançon](https://medium.com/workflowgen/graphql-mutations-partial-updates-implementation-bff586bda989)
  * 📜 [Modeling GraphQL Mutations - Oleg Ilyenko](https://techblog.commercetools.com/modeling-graphql-mutations-52d4369f73b1)
- * 📜 [GraphQL Mutation Design: Batch Updates - ](https://medium.com/@__xuorig__/graphql-mutation-design-batch-updates-ca2452f92833)
  * 📜 [GraphQL Mutation Design: Anemic Mutations - Marc-André Giroux](https://medium.com/@__xuorig__/graphql-mutation-design-anemic-mutations-dd107ba70496)
  
  ### Videos
@@ -128,7 +127,7 @@ All the translations for this repo will be listed below:
   * 📜 [From Zero to Graphql Subscriptions - Robert Zhu](https://hackernoon.com/from-zero-to-graphql-subscriptions-416b9e0284f3)
  * 📜 [Make web real-time with GraphQL subscriptions - David Qorashi](https://medium.com/@hpux/make-web-real-time-with-graphql-subscriptions-5a59ac1b010c)
  * 📜 [Realtime GraphQL Subscriptions - How to Graphql](https://www.howtographql.com/graphql-js/7-subscriptions/)
- * 📜 [A Guide to Subscriptions in GraphQL with Apollo -Brenda Jimenez ](https://www.levvel.io/our-ideas/A-Guide-to-Subscriptions-in-GraphQL-with-Apollo)
+ * 📜 [A Guide to Subscriptions in GraphQL with Apollo -Brenda Jimenez](https://www.levvel.io/our-ideas/A-Guide-to-Subscriptions-in-GraphQL-with-Apollo)
 
  ### Videos
 
@@ -539,7 +538,7 @@ All the translations for this repo will be listed below:
 ### Articles
 
  * 📜 [Dynamic GraphQL polling with React and Apollo Client - David Glasser](https://blog.apollographql.com/dynamic-graphql-polling-with-react-and-apollo-client-fb36e390d250)
- * 📜 [Introducing Schema Polling - Novvum ](https://www.novvum.io/post/graphql-playground-v1-8-8-introducing-schema-polling)
+ * 📜 [Introducing Schema Polling - Novvum](https://www.novvum.io/post/graphql-playground-v1-8-8-introducing-schema-polling)
  
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -548,10 +547,10 @@ All the translations for this repo will be listed below:
 
 ### Articles
 
- * 📜 [Understanding Caching](https://medium.com/p/58756ff253d8#9388)
+ * 📜 [Understanding Caching - Weblab Technology](https://medium.com/p/58756ff253d8#9388)
  * 📜 [Caching with GraphQL - What are the best options?](https://blog.usejournal.com/caching-with-graphql-what-are-the-best-options-e161b0f20e59)
- * 📜 [GraphQL VS Rest: Caching](https://philsturgeon.uk/api/2017/01/26/graphql-vs-rest-caching/)
- * 📜 [Learn Caching](https://graphql.org/learn/caching/)
+ * 📜 [GraphQL VS Rest: Caching - Phil Sturgeon](https://philsturgeon.uk/api/2017/01/26/graphql-vs-rest-caching/)
+ * 📜 [Learn Caching - Graphql.org](https://graphql.org/learn/caching/)
  * 📜 [Overview: GraphQL Query Parsing and Caching at the Edge - Monika Rathor](https://developer.akamai.com/blog/2018/10/29/overview-graphql-query-parsing-and-caching-edge)
 
 ### Videos
