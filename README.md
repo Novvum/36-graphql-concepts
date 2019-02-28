@@ -410,10 +410,9 @@ All the translations for this repo will be listed below:
 
 ### Articles
 
- * 📜 [3 Methods to Resolve GraphQL Endpoints - Nicholas Hagen](https://www.contentful.com/blog/2018/09/25/3-methods-resolve-graphql-endpoints/)
  * 📜 [Adding a GraphQL endpoint - Apollo Documentation](https://www.apollographql.com/docs/apollo-server/v1/setup.html)
- * 📜 [FakerQL — The ultimate GraphQL endpoint for fake data - Jamie Barton](https://medium.com/@notrab/fakerql-is-ultimate-graphql-endpoint-for-fake-data-bd83f4cd6ad1)
  * 📜 [Running a scalable & reliable GraphQL endpoint with Serverless - Siddharth Gupta](https://serverless.com/blog/running-scalable-reliable-graphql-endpoint-with-serverless/)
+ * 📜 [Serving over HTTP: Endpoints - Graphql.org](https://graphql.org/learn/serving-over-http/)
  
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -537,7 +536,6 @@ All the translations for this repo will be listed below:
 ### Articles
 
  * 📜 [Dynamic GraphQL polling with React and Apollo Client - David Glasser](https://blog.apollographql.com/dynamic-graphql-polling-with-react-and-apollo-client-fb36e390d250)
- * 📜 [Introducing Schema Polling - Novvum](https://www.novvum.io/post/graphql-playground-v1-8-8-introducing-schema-polling)
  
 **[⬆ Back to Top](#table-of-contents)**
 
