@@ -547,7 +547,7 @@ All the translations for this repo will be listed below:
 ### Articles
 
  * 📜 [Understanding Caching - Weblab Technology](https://medium.com/p/58756ff253d8#9388)
- * 📜 [Caching with GraphQL - What are the best options?](https://blog.usejournal.com/caching-with-graphql-what-are-the-best-options-e161b0f20e59)
+ * 📜 [Caching with GraphQl: What are the best options? - Will Howard](https://blog.usejournal.com/caching-with-graphql-what-are-the-best-options-e161b0f20e59)
  * 📜 [GraphQL VS Rest: Caching - Phil Sturgeon](https://philsturgeon.uk/api/2017/01/26/graphql-vs-rest-caching/)
  * 📜 [Learn Caching - Graphql.org](https://graphql.org/learn/caching/)
  * 📜 [Overview: GraphQL Query Parsing and Caching at the Edge - Monika Rathor](https://developer.akamai.com/blog/2018/10/29/overview-graphql-query-parsing-and-caching-edge)
