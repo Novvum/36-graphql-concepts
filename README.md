@@ -252,13 +252,12 @@ All the translations for this repo will be listed below:
  * 📜 [Use custom directives to protect your GraphQL APIs - David He](https://codeburst.io/use-custom-directives-to-protect-your-graphql-apis-a78cbbe17355)
  * 📜 [An introduction to GraphQL: Directives - Flavioscopes](https://flaviocopes.com/graphql/#graphql-directives)
  * 📜 [The Power of GraphQL Directives - Łukasz Czyszczonik](https://blog.callstack.io/the-power-of-graphql-directives-81f4987fd76d])
- * 📜 [Schema Directives - Apollo](https://www.apollographql.com/docs/graphql-tools/schema-directives.html])
- * 📜 [The Power of GraphQL Directives - Łukasz Czyszczonik]([https://blog.callstack.io/the-power-of-graphql-directives-81f4987fd76d])
- * 📜 [SDL Directives - GraphQLJava]([https://www.graphql-java.com/documentation/v11/sdl-directives/])
+ * 📜 [Schema Directives - Apollo](https://www.apollographql.com/docs/graphql-tools/schema-directives.html)
+ * 📜 [SDL Directives - GraphQLJava](https://www.graphql-java.com/documentation/v11/sdl-directives/)
  
  ### Videos
 
- * 🎥 [Directives in GraphQL - FullStackHour]([https://www.youtube.com/watch?v=HUKKNL2socs])
+ * 🎥 [Directives in GraphQL - FullStackHour](https://www.youtube.com/watch?v=HUKKNL2socs)
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -267,8 +266,8 @@ All the translations for this repo will be listed below:
 
 ### Articles
 
- * 📜 [Type Extension - Facebook]([https://facebook.github.io/graphql/draft/#TypeExtension])
- * 📜 [Modularizing your GraphQL Schema Code: Extending types in multiple files - Apollo([https://blog.apollographql.com/d7f71d5ed5f2#14ac])
+ * 📜 [Type Extension - Facebook](https://facebook.github.io/graphql/draft/#TypeExtension)
+ * 📜 [Modularizing your GraphQL Schema Code: Extending types in multiple files - Apollo(https://blog.apollographql.com/d7f71d5ed5f2#14ac)
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -277,11 +276,11 @@ All the translations for this repo will be listed below:
 
 ### Articles
 
- * 📜 [Schema Extension - Facebook]([https://facebook.github.io/graphql/June2018/#sec-Schema-Extension])
+ * 📜 [Schema Extension - Facebook](https://facebook.github.io/graphql/June2018/#sec-Schema-Extension)
 
  ### Videos
 
- * 🎥 [Extending Schema Types: Full-stack GraphQL with Apollo, Meteor & React - LevelUpTuts]([https://www.youtube.com/watch?v=A7NvopS75dI])
+ * 🎥 [Extending Schema Types: Full-stack GraphQL with Apollo, Meteor & React - LevelUpTuts](https://www.youtube.com/watch?v=A7NvopS75dI)
 
 **[⬆ Back to Top](#table-of-contents)**
 
