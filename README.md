@@ -372,7 +372,8 @@ All the translations for this repo will be listed below:
  * 📜 [Using a GraphQL API for Database Administration — Michael Hunger](https://medium.freecodecamp.org/using-a-graphql-api-for-database-administration-1a5039b43c8f)
  * 📜 [GraphQL as a database query language - Predrag Gruevski](https://blog.kensho.com/compiled-graphql-as-a-database-query-language-72e106844282)
  * 📜 [Use all the databases — Loren Sands-Ramshaw](https://www.compose.com/articles/use-all-the-databases-part-1/)
-
+ * 📜 [GraphQL for databases: A layer for universal database access — George Anadiotis](https://www.zdnet.com/article/graphql-for-databases-a-layer-for-universal-database-access/)
+ 
  ### Videos
 
  * 🎥 [Build a GraphQL Server with Node.js and MongoDB - Ben Awad](https://www.youtube.com/watch?v=291i04TfGb0)
