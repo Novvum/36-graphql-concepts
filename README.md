@@ -124,13 +124,11 @@ All the translations for this repo will be listed below:
 
 ### Articles
 
- * 📜 [Graphql Subscriptions Example - jedwards1211](https://github.com/apollographql/graphql-subscriptions)
- * 📜 [Make web real-time with GraphQL subscriptions - David Qorashi](https://medium.com/@hpux/make-web-real-time-with-graphql-subscriptions-5a59ac1b010c)
  * 📜 [Subscriptions in Graphql and Relay - Dan Schafer](https://graphql.org/blog/subscriptions-in-graphql-and-relay/)
- * 📜 [From Zero to Graphql Subscriptions - Robert Zhu](https://hackernoon.com/from-zero-to-graphql-subscriptions-416b9e0284f3)
+  * 📜 [From Zero to Graphql Subscriptions - Robert Zhu](https://hackernoon.com/from-zero-to-graphql-subscriptions-416b9e0284f3)
+ * 📜 [Make web real-time with GraphQL subscriptions - David Qorashi](https://medium.com/@hpux/make-web-real-time-with-graphql-subscriptions-5a59ac1b010c)
  * 📜 [Realtime GraphQL Subscriptions - How to Graphql](https://www.howtographql.com/graphql-js/7-subscriptions/)
  * 📜 [A Guide to Subscriptions in GraphQL with Apollo -Brenda Jimenez ](https://www.levvel.io/our-ideas/A-Guide-to-Subscriptions-in-GraphQL-with-Apollo)
- * 📜 [Real-time GraphQL Subscriptions Part 1: Server - John Crisostomo](https://blog.johncrisostomo.com/real-time-graphql-subscriptions-part-1/)
 
  ### Videos
 
@@ -147,13 +145,13 @@ All the translations for this repo will be listed below:
 ### Articles
 
  * 📜 [Constructing Types — Graphql.org](https://graphql.org/graphql-js/constructing-types/)
- * 📜 [Object Types — Graphql.org](https://graphql.org/graphql-js/object-types/)
  * 📜 [Schema types - Apollo](https://www.apollographql.com/docs/apollo-server/schemas/types.html)
-
+ * 📜 [Object Types — Graphql.org](https://graphql.org/graphql-js/object-types/)
+ 
   ### Videos
+  * 🎥 [Author Types — The Net Ninja](https://www.youtube.com/watch?v=Pe1MgqWFyYE&t=2s)
+  * 🎥 [Extending Schema Types - Full-stack GraphQL with Apollo, Meteor & React - LevelUpTuts](https://www.youtube.com/watch?v=A7NvopS75dI)
 
- * 🎥 [Type Relations — The Net Ninja](https://www.youtube.com/watch?v=-aQ_Io9m1GQ)
- * 🎥 [Extending Schema Types - Full-stack GraphQL with Apollo, Meteor & React - LevelUpTuts](https://www.youtube.com/watch?v=A7NvopS75dI)
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -162,8 +160,7 @@ All the translations for this repo will be listed below:
 
 ### Articles
 
- * 📜 [Class: GraphQL::Field - rubydoc.info](https://www.rubydoc.info/gems/graphql/GraphQL/Field)
- * 📜 [Fields: Introduction - graphql-ruby.org](https://graphql-ruby.org/fields/introduction.html)
+ 
 
  ### Videos
 
@@ -183,6 +180,7 @@ All the translations for this repo will be listed below:
 
  * 🎥 [Type Relations - The Net Ninja](https://www.youtube.com/watch?v=-aQ_Io9m1GQ)
  * 🎥 [GraphQL Data Relationships - MicroUrb](https://www.youtube.com/watch?v=9EzZJz0QeEI)
+ 
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -571,6 +569,11 @@ All the translations for this repo will be listed below:
  * 📜 [GraphQL best practices for GraphQL schema design - David Mraz](https://graphqlmastery.com/blog/graphql-best-practices-for-graphql-schema-design)
  * 📜 [GraphQL Schema Design: Building Evolvable Schemas - Marc-André Giroux](https://blog.apollographql.com/graphql-schema-design-building-evolvable-schemas-1501f3c59ed5)
  * 📜 [Writing a Graphql Schema - Eitan Frailich](https://github.com/davidyaha/graphql-workshop/blob/master/manuals/step-2-writing-a-schema.md)
+ 
+ ### Videos
+
+* 🎥 [GraphQL Schema Design — Marc-André Giroux]( https://www.youtube.com/watch?v=pJamhW2xPYw)
+
 
 **[⬆ Back to Top](#table-of-contents)**
 
