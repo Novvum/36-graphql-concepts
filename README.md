@@ -592,8 +592,8 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/all-contri
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| [<img src="https://avatars3.githubusercontent.com/u/32113193?v=4" width="100px;" alt="Kelsey Yim"/><br /><sub><b>Kelsey Yim</b></sub>](https://github.com/kelseyyim)<br />[🚧](#maintenance-kelseyyim "Maintenance") |
-| :---: |
+| [<img src="https://avatars3.githubusercontent.com/u/32113193?v=4" width="100px;" alt="Kelsey Yim"/><br /><sub><b>Kelsey Yim</b></sub>](https://github.com/kelseyyim)<br />[🚧](#maintenance-kelseyyim "Maintenance") | [<img src="https://avatars1.githubusercontent.com/u/16107563?v=4" width="100px;" alt="Rohit Ravikoti"/><br /><sub><b>Rohit Ravikoti</b></sub>](https://novvum.io)<br />[🖋](#content-rohit-ravikoti "Content") |
+| :---: | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
