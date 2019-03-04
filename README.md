@@ -22,10 +22,10 @@ All the translations for this repo will be listed below:
 
 ## Table of Contents
 ### Specs
-1. **[Root Field](#1-root-field)**
-2. **[Queries](#2-queries)**
-3. **[Mutations](#3-mutations)**
-4. **[Subscriptions](#4-subscriptions)**
+1. **[Queries](#1-queries)**
+2. **[Mutations](#2-mutations)**
+3. **[Subscriptions](#3-subscriptions)**
+4. **[Root Field](#4-root-field)**
 5. **[Types](#5-types)**
 6. **[Field](#6-field)**
 7. **[Relationships](#7-relationships)**
@@ -68,20 +68,8 @@ All the translations for this repo will be listed below:
 ---
 # Specs
 
-## 1. Root Field
 
-### Articles
-
- * 📜 [Root Fields & Resolvers - Graphql.org](https://graphql.org/learn/execution/)
-
- ### Videos
-
- * 🎥 [GraphQL Tutorial, Root Query — The Net Ninja](https://www.youtube.com/watch?v=ALqNbTik44o)
-
-**[⬆ Back to Top](#table-of-contents)**
-
-
-## 2. Queries
+## 1. Queries
 
 ### Articles
 
@@ -98,7 +86,7 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
-## 3. Mutations
+## 2. Mutations
 
 ### Articles
 
@@ -119,7 +107,7 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
-## 4. Subscriptions
+## 3. Subscriptions
 
 ### Articles
 
@@ -138,6 +126,18 @@ All the translations for this repo will be listed below:
  
 **[⬆ Back to Top](#table-of-contents)**
 
+
+## 4. Root Field
+
+### Articles
+
+ * 📜 [Root Fields & Resolvers - Graphql.org](https://graphql.org/learn/execution/)
+
+ ### Videos
+
+ * 🎥 [GraphQL Tutorial, Root Query — The Net Ninja](https://www.youtube.com/watch?v=ALqNbTik44o)
+
+**[⬆ Back to Top](#table-of-contents)**
 
 ## 5. Types
 
