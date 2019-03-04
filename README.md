@@ -67,6 +67,7 @@ All the translations for this repo will be listed below:
 ---
 # Specs
 
+
 ## 1. Root Field
 
 ### Articles
@@ -78,6 +79,7 @@ All the translations for this repo will be listed below:
  * 🎥 [GraphQL Tutorial, Root Query — The Net Ninja](https://www.youtube.com/watch?v=ALqNbTik44o)
 
 **[⬆ Back to Top](#table-of-contents)**
+
 
 
 ## 2. Queries
@@ -95,6 +97,7 @@ All the translations for this repo will be listed below:
  * 🎥 [Writing GraphQL Queries - Live Coding with Jesse](https://www.youtube.com/watch?v=k-pj9d0cC-0)
  
 **[⬆ Back to Top](#table-of-contents)**
+
 
 
 ## 3. Mutations
@@ -118,6 +121,7 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
+
 ## 4. Subscriptions
 
 ### Articles
@@ -138,6 +142,7 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
+
 ## 5. Types
 
 ### Articles
@@ -154,6 +159,7 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
+
 ## 6. Field
 
 ### Articles
@@ -164,6 +170,7 @@ All the translations for this repo will be listed below:
 
 
 **[⬆ Back to Top](#table-of-contents)**
+
 
 
 ## 7. Relationships
@@ -181,6 +188,7 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
+
 ## 8. Nested Info
 
 ### Articles
@@ -195,6 +203,7 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
+
 ## 9. Introspection
 
 ### Articles
@@ -205,6 +214,7 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
+
 ## 10. Arguments
 
 ### Articles
@@ -213,6 +223,7 @@ All the translations for this repo will be listed below:
  * 📜 [Passing Arguments - GraphQL.org](https://graphql.org/graphql-js/passing-arguments/)
 
 **[⬆ Back to Top](#table-of-contents)**
+
 
 
 ## 11. Union Types
@@ -228,6 +239,7 @@ All the translations for this repo will be listed below:
  **[⬆ Back to Top](#table-of-contents)**
 
 
+
 ## 12. DefaultValue
 
 ### Articles
@@ -235,6 +247,7 @@ All the translations for this repo will be listed below:
  * 📜 [GraphQL - Facebook](https://facebook.github.io/graphql/June2018/#DefaultValue)
 
 **[⬆ Back to Top](#table-of-contents)**
+
 
 
 ## 13. Directives
@@ -255,6 +268,7 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
+
 ## 14. Type Extension
 
 ### Articles
@@ -263,6 +277,7 @@ All the translations for this repo will be listed below:
  * 📜 [Modularizing your GraphQL Schema Code: Extending types in multiple files - Apollo](https://blog.apollographql.com/d7f71d5ed5f2#14ac)
 
 **[⬆ Back to Top](#table-of-contents)**
+
 
 
 ## 15. Schema Extension
@@ -279,6 +294,7 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
+
 ## 16. Schema Definition Language - SDL
 
 ### Articles
@@ -292,7 +308,9 @@ All the translations for this repo will be listed below:
 
 ---
 
+
 # Server
+
 ## 17. Setting Up a Server
 
 ### Articles
@@ -313,6 +331,7 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
+
 ## 18. Schema
 
 ### Articles
@@ -328,6 +347,7 @@ All the translations for this repo will be listed below:
  * 🎥 [GraphQL Schema - The Net Ninja](https://www.youtube.com/watch?v=A8vtRvz-lK0)
 
 **[⬆ Back to Top](#table-of-contents)**
+
 
 
 ## 19. Resolvers
@@ -347,6 +367,7 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
+
 ## 20. Context
 
 ### Articles
@@ -356,6 +377,7 @@ All the translations for this repo will be listed below:
  * 📜 [How does one set up database or other context in a graphql resolver - StackOverflow](https://stackoverflow.com/questions/44220597/how-does-one-set-up-database-or-other-context-in-a-graphql-resolver)
  
 **[⬆ Back to Top](#table-of-contents)**
+
 
 
 ## 21. Databases
@@ -377,6 +399,7 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
+
 ## 22. Dataloader
 
 ### Articles
@@ -392,6 +415,7 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
+
 ## 23. Entry Points
 
 ### Articles
@@ -405,6 +429,7 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
+
 ## 24. Endpoints
 
 ### Articles
@@ -414,6 +439,7 @@ All the translations for this repo will be listed below:
  * 📜 [Serving over HTTP: Endpoints - Graphql.org](https://graphql.org/learn/serving-over-http/)
  
 **[⬆ Back to Top](#table-of-contents)**
+
 
 
 ## 25. Schema Stitching
@@ -434,6 +460,7 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
+
 ## 26. Code First
 
 ### Articles
@@ -444,6 +471,7 @@ All the translations for this repo will be listed below:
 
 
 **[⬆ Back to Top](#table-of-contents)**
+
 
 
 ## 27. Schema First
@@ -458,6 +486,7 @@ All the translations for this repo will be listed below:
  * 🎥 [Schema First Development - Prisma](https://www.youtube.com/watch?v=SdWI7XaAeeY)
 
 **[⬆ Back to Top](#table-of-contents)**
+
 
 
 ## 28. Middleware
@@ -477,7 +506,9 @@ All the translations for this repo will be listed below:
 
 ---
 
+
 # Client
+
 
 ## 29. Fetching
 
@@ -491,6 +522,7 @@ All the translations for this repo will be listed below:
  * 🎥 [Building a GraphQL Server, RootQuery & Fetching Data - Traversy Media](https://www.youtube.com/watch?v=e9Zxzr7sy60)
  
 **[⬆ Back to Top](#table-of-contents)**
+
 
 
 ## 30. Fragments
@@ -508,6 +540,7 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
+
 ## 31. Variables
 
 ### Articles
@@ -520,6 +553,8 @@ All the translations for this repo will be listed below:
 
 **[⬆ Back to Top](#table-of-contents)**
 
+
+
 ## 32. Alias
 
 ### Articles
@@ -530,6 +565,8 @@ All the translations for this repo will be listed below:
 
 **[⬆ Back to Top](#table-of-contents)**
 
+
+
 ## 33. Polling
 
 ### Articles
@@ -537,6 +574,7 @@ All the translations for this repo will be listed below:
  * 📜 [Dynamic GraphQL polling with React and Apollo Client - David Glasser](https://blog.apollographql.com/dynamic-graphql-polling-with-react-and-apollo-client-fb36e390d250)
  
 **[⬆ Back to Top](#table-of-contents)**
+
 
 
 ## 34. Cache
@@ -557,7 +595,9 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
+
 # Best Practices
+
 
 ## 35. Schema Design
 
@@ -574,6 +614,7 @@ All the translations for this repo will be listed below:
 
 
 **[⬆ Back to Top](#table-of-contents)**
+
 
 
 ## 36. Logging
