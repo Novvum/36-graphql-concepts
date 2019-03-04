@@ -1,6 +1,4 @@
 <h1 align="center">
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
-    <br>
   36 Concepts Every GraphQL Developer Should Know - WIP
   <br><br>
 </h1>
