@@ -25,9 +25,9 @@ All the translations for this repo will be listed below:
 1. **[Queries](#1-queries)**
 2. **[Mutations](#2-mutations)**
 3. **[Subscriptions](#3-subscriptions)**
-4. **[Root Field](#4-root-field)**
-5. **[Types](#5-types)**
-6. **[Field](#6-field)**
+4. **[Types](#4-types)**
+5. **[Fields](#5-fields)**
+6. **[Root Field](#6-root-field)**
 7. **[Relationships](#7-relationships)**
 8. **[Nested Info](#8-nested-info)**
 9. **[Introspection](#9-introspection)**
@@ -49,8 +49,8 @@ All the translations for this repo will be listed below:
 23. **[Entry Points](#23-entry-points)**
 24. **[Endpoints](#24-endpoints)**
 25. **[Schema Stitching](#25-schema-stitching)**
-26. **[Code First](#26-code-first)**
-27. **[Schema First](#27-schema-first)**
+26. **[Schema First](#26-schema-first)**
+27. **[Code First](#27-code-first)**
 28. **[Middleware](#28-middleware)**
 
 ### Client
@@ -127,19 +127,7 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
-## 4. Root Field
-
-### Articles
-
- * 📜 [Root Fields & Resolvers - Graphql.org](https://graphql.org/learn/execution/)
-
- ### Videos
-
- * 🎥 [GraphQL Tutorial, Root Query — The Net Ninja](https://www.youtube.com/watch?v=ALqNbTik44o)
-
-**[⬆ Back to Top](#table-of-contents)**
-
-## 5. Types
+## 4. Types
 
 ### Articles
 
@@ -155,7 +143,7 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
-## 6. Field
+## 5. Fields
 
 ### Articles
 
@@ -166,6 +154,18 @@ All the translations for this repo will be listed below:
 
 **[⬆ Back to Top](#table-of-contents)**
 
+
+## 6. Root Field
+
+### Articles
+
+ * 📜 [Root Fields & Resolvers - Graphql.org](https://graphql.org/learn/execution/)
+
+ ### Videos
+
+ * 🎥 [GraphQL Tutorial, Root Query — The Net Ninja](https://www.youtube.com/watch?v=ALqNbTik44o)
+
+**[⬆ Back to Top](#table-of-contents)**
 
 ## 7. Relationships
 
@@ -435,28 +435,28 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
-## 26. Code First
+## 26. Schema First
 
 ### Articles
 
- * 📜 [Code-first - Hot Chocolate](https://hotchocolate.io/docs/code-first)
- * 📜 [Introducing GraphQL Nexus Code First GraphQL Server Development - Prisma](https://www.prisma.io/blog/introducing-graphql-nexus-code-first-graphql-server-development-ll6s1yy5cxl5/)
- 
-
-
-**[⬆ Back to Top](#table-of-contents)**
-
-
-## 27. Schema First
-
-### Articles
-
- * 📜 [The Problems of Schema-First GraphQL - Prisma](https://www.prisma.io/blog/the-problems-of-schema-first-graphql-development-x1mn4cb0tyl3)
  * 📜 [Using a Schema-First Design As Your Single Source of Truth - Prisma](https://nordicapis.com/using-a-schema-first-design-as-your-single-source-of-truth/)
 
  ### Videos
 
  * 🎥 [Schema First Development - Prisma](https://www.youtube.com/watch?v=SdWI7XaAeeY)
+
+**[⬆ Back to Top](#table-of-contents)**
+
+
+## 27. Code First
+
+### Articles
+
+ * 📜 [Code-first - Hot Chocolate](https://hotchocolate.io/docs/code-first)
+ * 📜 [Introducing GraphQL Nexus Code First GraphQL Server Development - Prisma](https://www.prisma.io/blog/introducing-graphql-nexus-code-first-graphql-server-development-ll6s1yy5cxl5/)
+ * 📜 [The Problems of Schema-First GraphQL - Prisma](https://www.prisma.io/blog/the-problems-of-schema-first-graphql-development-x1mn4cb0tyl3)
+ 
+
 
 **[⬆ Back to Top](#table-of-contents)**
 
