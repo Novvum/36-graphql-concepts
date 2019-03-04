@@ -1,0 +1,23 @@
+{
+  "projectName": "36-graphql-concepts",
+  "projectOwner": "Novvum",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "kelseyyim",
+      "name": "Kelsey Yim",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/32113193?v=4",
+      "profile": "https://github.com/kelseyyim",
+      "contributions": [
+        "maintenance"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
