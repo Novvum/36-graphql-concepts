@@ -592,7 +592,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/all-contri
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| [<img src="https://avatars3.githubusercontent.com/u/32113193?v=4" width="100px;" alt="Kelsey Yim"/><br /><sub><b>Kelsey Yim</b></sub>](https://github.com/kelseyyim)<br />[🚧](#maintenance-kelseyyim "Maintenance") | [<img src="https://avatars1.githubusercontent.com/u/16107563?v=4" width="100px;" alt="Rohit Ravikoti"/><br /><sub><b>Rohit Ravikoti</b></sub>](https://novvum.io)<br />[🖋](#content-rohit-ravikoti "Content") | [<img src="https://avatars2.githubusercontent.com/u/15880596?v=4" width="100px;" alt="Raj K Singh"/><br /><sub><b>Raj K Singh</b></sub>](https://www.novvum.io)<br />[🖋](#content-rajinwonderland "Content") |
+| [<img src="https://avatars3.githubusercontent.com/u/32113193?v=4" width="100px;" alt="Kelsey Yim"/><br /><sub><b>Kelsey Yim</b></sub>](https://github.com/kelseyyim)<br />[🚧](#maintenance-kelseyyim "Maintenance") | [<img src="https://avatars1.githubusercontent.com/u/16107563?v=4" width="100px;" alt="Rohit Ravikoti"/><br /><sub><b>Rohit Ravikoti</b></sub>](https://novvum.io)<br />[🖋](#content-rohit-ravikoti "Content") | [<img src="https://avatars2.githubusercontent.com/u/15880596?v=4" width="100px;" alt="Raj K Singh"/><br /><sub><b>Raj K Singh</b></sub>](https://www.novvum.io)<br />[🖋](#content-rajinwonderland "Content")  | [<img src="https://avatars2.githubusercontent.com/u/11083917?v=4" width="100px;" alt="Alli Colyer"/><br /><sub><b>Alli Colyer</b></sub>](http://www.alli.science)<br />[🖋](#content-Allicolyer "Content") |
 | :---: | :---: | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
