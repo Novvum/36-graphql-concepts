@@ -1,0 +1,77 @@
+{
+  "projectName": "36-graphql-concepts",
+  "projectOwner": "Novvum",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "kelseyyim",
+      "name": "Kelsey Yim",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/32113193?v=4",
+      "profile": "https://github.com/kelseyyim",
+      "contributions": [
+        "maintenance"
+      ]
+    },
+    {
+      "login": "rohit-ravikoti",
+      "name": "Rohit Ravikoti",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/16107563?v=4",
+      "profile": "https://novvum.io",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Allicolyer",
+      "name": "Alli Colyer",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/11083917?v=4",
+      "profile": "http://www.alli.science",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "rajinwonderland",
+      "name": "Raj K Singh",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/15880596?v=4",
+      "profile": "https://www.novvum.io",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Jorge0521",
+      "name": "Jorge Carlos",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/30252118?v=4",
+      "profile": "https://github.com/Jorge0521",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "hkyang995",
+      "name": "Henry Yang",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/31262171?v=4",
+      "profile": "https://github.com/hkyang995",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "TrevHeath",
+      "name": "TrevHeath",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/23729837?v=4",
+      "profile": "https://github.com/TrevHeath",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}

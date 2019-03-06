@@ -1,5 +1,4 @@
 <h1 align="center">
-    <br>
   36 Concepts Every GraphQL Developer Should Know - WIP
   <br><br>
 </h1>
@@ -167,6 +166,7 @@ All the translations for this repo will be listed below:
 
 **[⬆ Back to Top](#table-of-contents)**
 
+
 ## 7. Relationships
 
 ### Articles
@@ -180,6 +180,7 @@ All the translations for this repo will be listed below:
  * 🎥 [Type Relations - The Net Ninja](https://www.youtube.com/watch?v=-aQ_Io9m1GQ) 
 
 **[⬆ Back to Top](#table-of-contents)**
+
 
 
 ## 8. Nested Info
@@ -196,6 +197,7 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
+
 ## 9. Introspection
 
 ### Articles
@@ -206,6 +208,7 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
+
 ## 10. Arguments
 
 ### Articles
@@ -214,6 +217,7 @@ All the translations for this repo will be listed below:
  * 📜 [Passing Arguments - GraphQL.org](https://graphql.org/graphql-js/passing-arguments/)
 
 **[⬆ Back to Top](#table-of-contents)**
+
 
 
 ## 11. Union Types
@@ -229,6 +233,7 @@ All the translations for this repo will be listed below:
  **[⬆ Back to Top](#table-of-contents)**
 
 
+
 ## 12. DefaultValue
 
 ### Articles
@@ -236,6 +241,7 @@ All the translations for this repo will be listed below:
  * 📜 [GraphQL - Facebook](https://facebook.github.io/graphql/June2018/#DefaultValue)
 
 **[⬆ Back to Top](#table-of-contents)**
+
 
 
 ## 13. Directives
@@ -256,6 +262,7 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
+
 ## 14. Type Extension
 
 ### Articles
@@ -264,6 +271,7 @@ All the translations for this repo will be listed below:
  * 📜 [Modularizing your GraphQL Schema Code: Extending types in multiple files - Apollo](https://blog.apollographql.com/d7f71d5ed5f2#14ac)
 
 **[⬆ Back to Top](#table-of-contents)**
+
 
 
 ## 15. Schema Extension
@@ -280,6 +288,7 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
+
 ## 16. Schema Definition Language - SDL
 
 ### Articles
@@ -293,7 +302,9 @@ All the translations for this repo will be listed below:
 
 ---
 
+
 # Server
+
 ## 17. Setting Up a Server
 
 ### Articles
@@ -314,6 +325,7 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
+
 ## 18. Schema
 
 ### Articles
@@ -329,6 +341,7 @@ All the translations for this repo will be listed below:
  * 🎥 [GraphQL Schema - The Net Ninja](https://www.youtube.com/watch?v=A8vtRvz-lK0)
 
 **[⬆ Back to Top](#table-of-contents)**
+
 
 
 ## 19. Resolvers
@@ -348,6 +361,7 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
+
 ## 20. Context
 
 ### Articles
@@ -357,6 +371,7 @@ All the translations for this repo will be listed below:
  * 📜 [How does one set up database or other context in a graphql resolver - StackOverflow](https://stackoverflow.com/questions/44220597/how-does-one-set-up-database-or-other-context-in-a-graphql-resolver)
  
 **[⬆ Back to Top](#table-of-contents)**
+
 
 
 ## 21. Databases
@@ -378,6 +393,7 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
+
 ## 22. Dataloader
 
 ### Articles
@@ -393,6 +409,7 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
+
 ## 23. Entry Points
 
 ### Articles
@@ -406,6 +423,7 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
+
 ## 24. Endpoints
 
 ### Articles
@@ -415,6 +433,7 @@ All the translations for this repo will be listed below:
  * 📜 [Serving over HTTP: Endpoints - Graphql.org](https://graphql.org/learn/serving-over-http/)
  
 **[⬆ Back to Top](#table-of-contents)**
+
 
 
 ## 25. Schema Stitching
@@ -461,6 +480,7 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
+
 ## 28. Middleware
 
 ### Articles
@@ -478,7 +498,9 @@ All the translations for this repo will be listed below:
 
 ---
 
+
 # Client
+
 
 ## 29. Fetching
 
@@ -492,6 +514,7 @@ All the translations for this repo will be listed below:
  * 🎥 [Building a GraphQL Server, RootQuery & Fetching Data - Traversy Media](https://www.youtube.com/watch?v=e9Zxzr7sy60)
  
 **[⬆ Back to Top](#table-of-contents)**
+
 
 
 ## 30. Fragments
@@ -509,6 +532,7 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
+
 ## 31. Variables
 
 ### Articles
@@ -521,6 +545,8 @@ All the translations for this repo will be listed below:
 
 **[⬆ Back to Top](#table-of-contents)**
 
+
+
 ## 32. Alias
 
 ### Articles
@@ -531,6 +557,8 @@ All the translations for this repo will be listed below:
 
 **[⬆ Back to Top](#table-of-contents)**
 
+
+
 ## 33. Polling
 
 ### Articles
@@ -538,6 +566,7 @@ All the translations for this repo will be listed below:
  * 📜 [Dynamic GraphQL polling with React and Apollo Client - David Glasser](https://blog.apollographql.com/dynamic-graphql-polling-with-react-and-apollo-client-fb36e390d250)
  
 **[⬆ Back to Top](#table-of-contents)**
+
 
 
 ## 34. Cache
@@ -558,7 +587,9 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
+
 # Best Practices
+
 
 ## 35. Schema Design
 
@@ -577,6 +608,7 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
+
 ## 36. Logging
 
 ### Articles
@@ -586,3 +618,15 @@ All the translations for this repo will be listed below:
  
 
 **[⬆ Back to Top](#table-of-contents)**
+
+## Contributors
+
+Thanks goes to these wonderful people ([emoji key](https://github.com/all-contributors/all-contributors#emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+| [<img src="https://avatars3.githubusercontent.com/u/32113193?v=4" width="100px;" alt="Kelsey Yim"/><br /><sub><b>Kelsey Yim</b></sub>](https://github.com/kelseyyim)<br />[🚧](#maintenance-kelseyyim "Maintenance") | [<img src="https://avatars1.githubusercontent.com/u/16107563?v=4" width="100px;" alt="Rohit Ravikoti"/><br /><sub><b>Rohit Ravikoti</b></sub>](https://novvum.io)<br />[🚧](#maintenance-rohit-ravikoti "Maintenance") | [<img src="https://avatars2.githubusercontent.com/u/11083917?v=4" width="100px;" alt="Alli Colyer"/><br /><sub><b>Alli Colyer</b></sub>](http://www.alli.science)<br />[🖋](#content-Allicolyer "Content") | [<img src="https://avatars2.githubusercontent.com/u/15880596?v=4" width="100px;" alt="Raj K Singh"/><br /><sub><b>Raj K Singh</b></sub>](https://www.novvum.io)<br />[🖋](#content-rajinwonderland "Content") | [<img src="https://avatars3.githubusercontent.com/u/30252118?v=4" width="100px;" alt="Jorge Carlos"/><br /><sub><b>Jorge Carlos</b></sub>](https://github.com/Jorge0521)<br />[🖋](#content-Jorge0521 "Content") | [<img src="https://avatars2.githubusercontent.com/u/31262171?v=4" width="100px;" alt="Henry Yang"/><br /><sub><b>Henry Yang</b></sub>](https://github.com/hkyang995)<br />[🖋](#content-hkyang995 "Content") | [<img src="https://avatars3.githubusercontent.com/u/23729837?v=4" width="100px;" alt="TrevHeath"/><br /><sub><b>TrevHeath</b></sub>](https://github.com/TrevHeath)<br />[🖋](#content-TrevHeath "Content") |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
