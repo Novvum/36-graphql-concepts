@@ -43,10 +43,10 @@ All the translations for this repo will be listed below:
 18. **[Schema](#18-schema)**
 19. **[Resolvers](#19-resolvers)**
 20. **[Context](#20-context)**
-21. **[Databases](#21-databases)**
-22. **[Dataloader](#22-dataloader)**
-23. **[Entry Points](#23-entry-points)**
-24. ~~**[Endpoints](#24-endpoints)**~~
+21. **[Info Object](#21-info-object)**
+22. **[Databases](#22-databases)**
+23. **[Dataloader](#23-dataloader)**
+24. **[Entry Points](#24-entry-points)**
 25. **[Schema Stitching](#25-schema-stitching)**
 26. **[Schema First](#26-schema-first)**
 27. **[Code First](#27-code-first)**
@@ -367,7 +367,17 @@ All the translations for this repo will be listed below:
 
 
 
-## 21. Databases
+## 21. Info Object
+
+### Articles
+
+ * 📜 [GraphQL Server Basics: Demystifying the info Argument in GraphQL Resolvers](https://www.prisma.io/blog/graphql-server-basics-demystifying-the-info-argument-in-graphql-resolvers-6f26249f613a/)
+ 
+**[⬆ Back to Top](#table-of-contents)**
+
+
+
+## 22. Databases
 
 ### Articles
 
@@ -387,7 +397,7 @@ All the translations for this repo will be listed below:
 
 
 
-## 22. Dataloader
+## 23. Dataloader
 
 ### Articles
 
@@ -403,30 +413,20 @@ All the translations for this repo will be listed below:
 
 
 
-## 23. Entry Points
+## 24. Entry Points
 
 ### Articles
 
  * 📜 [API Reference: entry points — GraphQL](https://graphql.org/graphql-js/graphql/#entry-point)
+ * 📜 [Adding a GraphQL endpoint - Apollo Documentation](https://www.apollographql.com/docs/apollo-server/v1/setup.html)
+ * 📜 [Running a scalable & reliable GraphQL endpoint with Serverless - Siddharth Gupta](https://serverless.com/blog/running-scalable-reliable-graphql-endpoint-with-serverless/)
+ * 📜 [Serving over HTTP: Endpoints - Graphql.org](https://graphql.org/learn/serving-over-http/)
 
 ### Videos
 
  * 🎥 [ContentaJS GraphQL 3 - The GraphQL entry points — Mateu](https://www.youtube.com/watch?v=7eLsfIZYuvU)
 
 **[⬆ Back to Top](#table-of-contents)**
-
-
-
-## 24. Endpoints
-
-### Articles
-
- * 📜 [Adding a GraphQL endpoint - Apollo Documentation](https://www.apollographql.com/docs/apollo-server/v1/setup.html)
- * 📜 [Running a scalable & reliable GraphQL endpoint with Serverless - Siddharth Gupta](https://serverless.com/blog/running-scalable-reliable-graphql-endpoint-with-serverless/)
- * 📜 [Serving over HTTP: Endpoints - Graphql.org](https://graphql.org/learn/serving-over-http/)
- 
-**[⬆ Back to Top](#table-of-contents)**
-
 
 
 ## 25. Schema Stitching
