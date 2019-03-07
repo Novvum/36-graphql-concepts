@@ -46,7 +46,7 @@ All the translations for this repo will be listed below:
 21. **[Databases](#21-databases)**
 22. **[Dataloader](#22-dataloader)**
 23. **[Entry Points](#23-entry-points)**
-24. ~~**[Endpoints](#24-endpoints)**
+24. ~~**[Endpoints](#24-endpoints)**~~
 25. **[Schema Stitching](#25-schema-stitching)**
 26. **[Schema First](#26-schema-first)**
 27. **[Code First](#27-code-first)**
