@@ -28,15 +28,15 @@ All the translations for this repo will be listed below:
 5. **[Fields](#5-fields)**
 6. **[Root Field](#6-root-field)**
 7. **[Relationships](#7-relationships)**
-8. **[Nested Info](#8-nested-info)**
-9. **[Introspection](#9-introspection)**
-10. **[Arguments](#10-arguments)**
-11. **[Union Types](#11-union-types)**
-12. **[DefaultValue](#12-defaultvalue)**
-13. **[Directives](#13-directives)**
-14. **[Type Extensions](#14-type-extension)**
-15. **[Schema Extension](#15-schema-extension)**
-16. **[Schema Definition Language](#16-schema-definition-language---sdl)**
+8. **[Introspection](#8-introspection)**
+9. **[Arguments](#9-arguments)**
+10. **[Union Types](#10-union-types)**
+11. **[Interface Types](#11-interface-types)**
+12. **[Directives](#12-directives)**
+13. **[Type Extensions](#13-type-extension)**
+14. **[Relay Specification](#14-relay-specification)**
+15. **[Schema Definition Language](#15-schema-definition-language---sdl)**
+16. **[GraphQLSchema Object](#16-graphqlschema-object)**
 
 ### Server
 17. **[Setting up a server](#17-setting-up-a-server)**
@@ -46,7 +46,7 @@ All the translations for this repo will be listed below:
 21. **[Databases](#21-databases)**
 22. **[Dataloader](#22-dataloader)**
 23. **[Entry Points](#23-entry-points)**
-24. **[Endpoints](#24-endpoints)**
+24. ~~**[Endpoints](#24-endpoints)**
 25. **[Schema Stitching](#25-schema-stitching)**
 26. **[Schema First](#26-schema-first)**
 27. **[Code First](#27-code-first)**
@@ -62,7 +62,8 @@ All the translations for this repo will be listed below:
 
 ### Best Practices
 35. **[Schema Design](#35-schema-design)**
-36. **[Logging](#36-logging)** 
+36. **[Pagination](#36-pagination)**
+37. **[Logging](#37-logging)** 
 
 ---
 # Specs
@@ -182,23 +183,7 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
-
-## 8. Nested Info
-
-### Articles
-
-
- * 📜 [Advanced querying with GraphQL and Express - Alexander Kondov](https://hackernoon.com/advanced-querying-with-graphql-and-express-8cf2fd05f5ea)
-
- ### Videos
-
- * 🎥 [Nesting GraphQL - Ben Awad](https://www.youtube.com/watch?v=Ffl1oWjSUF4)
-
-**[⬆ Back to Top](#table-of-contents)**
-
-
-
-## 9. Introspection
+## 8. Introspection
 
 ### Articles
 
@@ -209,7 +194,7 @@ All the translations for this repo will be listed below:
 
 
 
-## 10. Arguments
+## 9. Arguments
 
 ### Articles
 
@@ -220,7 +205,7 @@ All the translations for this repo will be listed below:
 
 
 
-## 11. Union Types
+## 10. Union Types
 
 ### Articles
 
@@ -234,17 +219,17 @@ All the translations for this repo will be listed below:
 
 
 
-## 12. DefaultValue
+## 11. Interface Types
 
 ### Articles
 
- * 📜 [GraphQL - Facebook](https://facebook.github.io/graphql/June2018/#DefaultValue)
+ * 📜 [Interface Type - Apollo Documentation](https://www.apollographql.com/docs/apollo-server/features/unions-interfaces.html#Interface-type)
 
 **[⬆ Back to Top](#table-of-contents)**
 
 
 
-## 13. Directives
+## 12. Directives
 
 ### Articles
 
@@ -263,24 +248,15 @@ All the translations for this repo will be listed below:
 
 
 
-## 14. Type Extension
+## 13. Type Extension
 
 ### Articles
 
  * 📜 [Type Extension - Facebook](https://facebook.github.io/graphql/draft/#TypeExtension)
  * 📜 [Modularizing your GraphQL Schema Code: Extending types in multiple files - Apollo](https://blog.apollographql.com/d7f71d5ed5f2#14ac)
-
-**[⬆ Back to Top](#table-of-contents)**
-
-
-
-## 15. Schema Extension
-
-### Articles
-
  * 📜 [Schema Extension - Facebook](https://facebook.github.io/graphql/June2018/#sec-Schema-Extension)
  * 📜 [The ultimate guide to schema stitching in GraphQL: Schema Extension - Rishichandra Wawhal](https://blog.hasura.io/the-ultimate-guide-to-schema-stitching-in-graphql-f30178ac0072/)
- 
+
  ### Videos
 
  * 🎥 [Extending Schema Types: Full-stack GraphQL with Apollo, Meteor & React - LevelUpTuts](https://www.youtube.com/watch?v=A7NvopS75dI)
@@ -288,8 +264,16 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
+## 14. Relay Specification
 
-## 16. Schema Definition Language - SDL
+### Articles
+
+ * 📜 [GraphQL Server Specification](https://facebook.github.io/relay/docs/en/graphql-server-specification.html) 
+
+**[⬆ Back to Top](#table-of-contents)**
+
+
+## 15. Schema Definition Language - SDL
 
 ### Articles
 
@@ -297,6 +281,15 @@ All the translations for this repo will be listed below:
  * 📜 [Three ways to represent your GraphQL schema - Sashko Stubailo](https://blog.apollographql.com/three-ways-to-represent-your-graphql-schema-a41f4175100d)
  * 📜 [A GraphQL SDL Reference - Alligator](https://alligator.io/graphql/graphql-sdl/)
  
+
+**[⬆ Back to Top](#table-of-contents)**
+
+
+## 16. GraphQLSchema object
+
+### Articles
+
+ * 📜 [GraphQL.js GraphQLSchema object](https://blog.apollographql.com/three-ways-to-represent-your-graphql-schema-a41f4175100d) 
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -608,8 +601,16 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
+## 36. Pagination
 
-## 36. Logging
+### Articles
+
+ * 📜 [Pagination](https://graphql.org/learn/pagination/) 
+
+**[⬆ Back to Top](#table-of-contents)**
+
+
+## 37. Logging
 
 ### Articles
 
