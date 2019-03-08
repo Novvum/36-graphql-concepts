@@ -28,25 +28,25 @@ All the translations for this repo will be listed below:
 5. **[Fields](#5-fields)**
 6. **[Root Field](#6-root-field)**
 7. **[Relationships](#7-relationships)**
-8. **[Nested Info](#8-nested-info)**
-9. **[Introspection](#9-introspection)**
-10. **[Arguments](#10-arguments)**
-11. **[Union Types](#11-union-types)**
-12. **[DefaultValue](#12-defaultvalue)**
-13. **[Directives](#13-directives)**
-14. **[Type Extensions](#14-type-extension)**
-15. **[Schema Extension](#15-schema-extension)**
-16. **[Schema Definition Language](#16-schema-definition-language---sdl)**
+8. **[Introspection](#8-introspection)**
+9. **[Arguments](#9-arguments)**
+10. **[Union Types](#10-union-types)**
+11. **[Interface Types](#11-interface-types)**
+12. **[Directives](#12-directives)**
+13. **[Type Extensions](#13-type-extension)**
+14. **[Relay Specification](#14-relay-specification)**
+15. **[Schema Definition Language](#15-schema-definition-language---sdl)**
+16. **[GraphQLSchema Object](#16-graphqlschema-object)**
 
 ### Server
 17. **[Setting up a server](#17-setting-up-a-server)**
 18. **[Schema](#18-schema)**
 19. **[Resolvers](#19-resolvers)**
 20. **[Context](#20-context)**
-21. **[Databases](#21-databases)**
-22. **[Dataloader](#22-dataloader)**
-23. **[Entry Points](#23-entry-points)**
-24. **[Endpoints](#24-endpoints)**
+21. **[Info Object](#21-info-object)**
+22. **[Databases](#22-databases)**
+23. **[Dataloader](#23-dataloader)**
+24. **[Entry Points](#24-entry-points)**
 25. **[Schema Stitching](#25-schema-stitching)**
 26. **[SDL First](#26-sdl-first)**
 27. **[Code First](#27-code-first)**
@@ -62,7 +62,8 @@ All the translations for this repo will be listed below:
 
 ### Best Practices
 35. **[Schema Design](#35-schema-design)**
-36. **[Logging](#36-logging)** 
+36. **[Pagination](#36-pagination)**
+37. **[Logging](#37-logging)** 
 
 ---
 # Specs
@@ -77,6 +78,8 @@ All the translations for this repo will be listed below:
  * 📜 [Front End Queries Made Easy - Rasheed Bustamam](https://medium.freecodecamp.org/graphql-front-end-queries-made-easy-68e9d9ded283)
  * 📜 [An Introduction to Graphql Queries - Alligator.io](https://alligator.io/graphql/introduction-graphql-queries/)
  * 📜 [Examples for GraphQL-Queries and Mutations - predict8](https://www.predic8.de/graphql-query-samples.htm)
+ 
+ 
  ### Videos
 
  * 🎥 [GraphQL Tutorial #4 - Making Queries - The Net Ninja](https://www.youtube.com/watch?v=bX2e4FILf78)
@@ -85,10 +88,10 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
+
 ## 2. Mutations
 
 ### Articles
-
 
  * 📜 [Mutations in GraphQL - Alexander Kondov](https://hackernoon.com/mutations-in-graphql-9ac6a28202a2)
  * 📜 [Mutations - GraphQL.org](https://graphql.org/learn/queries/#mutations)
@@ -97,6 +100,7 @@ All the translations for this repo will be listed below:
  * 📜 [Modeling GraphQL Mutations - Oleg Ilyenko](https://techblog.commercetools.com/modeling-graphql-mutations-52d4369f73b1)
  * 📜 [GraphQL Mutation Design: Anemic Mutations - Marc-André Giroux](https://medium.com/@__xuorig__/graphql-mutation-design-anemic-mutations-dd107ba70496)
  
+ 
  ### Videos
 
  * 🎥 [GraphQL Tutorial #18 - Mutations - The Net Ninja](https://www.youtube.com/watch?v=DU77lbBPfBI)
@@ -104,6 +108,7 @@ All the translations for this repo will be listed below:
  * 🎥 [Learn Apollo - Basic Mutations - Prisma](https://www.youtube.com/watch?v=ZXvBmA-hKwc)
  
 **[⬆ Back to Top](#table-of-contents)**
+
 
 
 ## 3. Subscriptions
@@ -116,6 +121,7 @@ All the translations for this repo will be listed below:
  * 📜 [Realtime GraphQL Subscriptions - How to Graphql](https://www.howtographql.com/graphql-js/7-subscriptions/)
  * 📜 [A Guide to Subscriptions in GraphQL with Apollo -Brenda Jimenez](https://www.levvel.io/our-ideas/A-Guide-to-Subscriptions-in-GraphQL-with-Apollo)
 
+
  ### Videos
 
  * 🎥 [What is a Graphql Subscription - Ben Awad](https://www.youtube.com/watch?v=Tp8UPgmhyTs)
@@ -126,6 +132,7 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
+
 ## 4. Types
 
 ### Articles
@@ -134,12 +141,13 @@ All the translations for this repo will be listed below:
  * 📜 [Schema types - Apollo](https://www.apollographql.com/docs/apollo-server/schemas/types.html)
  * 📜 [Object Types — Graphql.org](https://graphql.org/graphql-js/object-types/)
  
+ 
   ### Videos
   * 🎥 [Author Types — The Net Ninja](https://www.youtube.com/watch?v=Pe1MgqWFyYE&t=2s)
   * 🎥 [Extending Schema Types - Full-stack GraphQL with Apollo, Meteor & React - LevelUpTuts](https://www.youtube.com/watch?v=A7NvopS75dI)
 
-
 **[⬆ Back to Top](#table-of-contents)**
+
 
 
 ## 5. Fields
@@ -149,9 +157,8 @@ All the translations for this repo will be listed below:
  * 📜 [Fields — Graphql.org](https://graphql.org/learn/queries/#fields) 
  * 📜 [Object Types & Fields — Graphql.org](https://graphql.org/learn/schema/#object-types-and-fields)
 
-
-
 **[⬆ Back to Top](#table-of-contents)**
+
 
 
 ## 6. Root Field
@@ -160,6 +167,7 @@ All the translations for this repo will be listed below:
 
  * 📜 [Root Fields & Resolvers - Graphql.org](https://graphql.org/learn/execution/)
 
+
  ### Videos
 
  * 🎥 [GraphQL Tutorial, Root Query — The Net Ninja](https://www.youtube.com/watch?v=ALqNbTik44o)
@@ -167,13 +175,14 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
+
 ## 7. Relationships
 
 ### Articles
  
-
  * 📜 [Thinking in graphs - Graphql.Org](https://graphql.org/learn/thinking-in-graphs/)
  * 📜 [ A simple graphql example with relationships - Graphql Documentation](https://blog.tylerbuchea.com/a-simple-graphql-example-with-relationships/)
+
 
  ### Videos
 
@@ -183,33 +192,17 @@ All the translations for this repo will be listed below:
 
 
 
-## 8. Nested Info
-
-### Articles
-
-
- * 📜 [Advanced querying with GraphQL and Express - Alexander Kondov](https://hackernoon.com/advanced-querying-with-graphql-and-express-8cf2fd05f5ea)
-
- ### Videos
-
- * 🎥 [Nesting GraphQL - Ben Awad](https://www.youtube.com/watch?v=Ffl1oWjSUF4)
-
-**[⬆ Back to Top](#table-of-contents)**
-
-
-
-## 9. Introspection
+## 8. Introspection
 
 ### Articles
 
  * 📜 [GraphQL introspection and introspection queries - David Mráz](https://graphqlmastery.com/blog/graphql-introspection-and-introspection-queries)
 
-
 **[⬆ Back to Top](#table-of-contents)**
 
 
 
-## 10. Arguments
+## 9. Arguments
 
 ### Articles
 
@@ -220,7 +213,7 @@ All the translations for this repo will be listed below:
 
 
 
-## 11. Union Types
+## 10. Union Types
 
 ### Articles
 
@@ -229,22 +222,21 @@ All the translations for this repo will be listed below:
  * 📜 [Graphql Interfaces and Unions-How to design a Graphql Schema — David Mraz](https://graphqlmastery.com/blog/graphql-interfaces-and-unions-how-to-design-graphql-schema)
  * 📜 [Interfaces and Unions in GraphQL — AWS Documentation](https://docs.aws.amazon.com/appsync/latest/devguide/interfaces-and-unions.html)
 
-
  **[⬆ Back to Top](#table-of-contents)**
 
 
 
-## 12. DefaultValue
+## 11. Interface Types
 
 ### Articles
 
- * 📜 [GraphQL - Facebook](https://facebook.github.io/graphql/June2018/#DefaultValue)
+ * 📜 [Interface Type - Apollo Documentation](https://www.apollographql.com/docs/apollo-server/features/unions-interfaces.html#Interface-type)
 
 **[⬆ Back to Top](#table-of-contents)**
 
 
 
-## 13. Directives
+## 12. Directives
 
 ### Articles
 
@@ -255,6 +247,7 @@ All the translations for this repo will be listed below:
  * 📜 [Schema Directives - Apollo](https://www.apollographql.com/docs/graphql-tools/schema-directives.html)
  * 📜 [SDL Directives - GraphQLJava](https://www.graphql-java.com/documentation/v11/sdl-directives/)
  
+ 
  ### Videos
 
  * 🎥 [Directives in GraphQL - FullStackHour](https://www.youtube.com/watch?v=HUKKNL2socs)
@@ -263,24 +256,15 @@ All the translations for this repo will be listed below:
 
 
 
-## 14. Type Extension
+## 13. Type Extension
 
 ### Articles
 
  * 📜 [Type Extension - Facebook](https://facebook.github.io/graphql/draft/#TypeExtension)
  * 📜 [Modularizing your GraphQL Schema Code: Extending types in multiple files - Apollo](https://blog.apollographql.com/d7f71d5ed5f2#14ac)
-
-**[⬆ Back to Top](#table-of-contents)**
-
-
-
-## 15. Schema Extension
-
-### Articles
-
  * 📜 [Schema Extension - Facebook](https://facebook.github.io/graphql/June2018/#sec-Schema-Extension)
  * 📜 [The ultimate guide to schema stitching in GraphQL: Schema Extension - Rishichandra Wawhal](https://blog.hasura.io/the-ultimate-guide-to-schema-stitching-in-graphql-f30178ac0072/)
- 
+
  ### Videos
 
  * 🎥 [Extending Schema Types: Full-stack GraphQL with Apollo, Meteor & React - LevelUpTuts](https://www.youtube.com/watch?v=A7NvopS75dI)
@@ -288,8 +272,18 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
+## 14. Relay Specification
 
-## 16. Schema Definition Language - SDL
+### Articles
+
+ * 📜 [GraphQL Server Specification - Facebook](https://facebook.github.io/relay/docs/en/graphql-server-specification.html)
+ * 📜 [Implementing the Relay spec in a GraphQL Server - Marc-Andre Giroux](http://mgiroux.me/2016/implementing-the-relay-spec-for-a-graphql-server/)
+ * 📜 [Relay/GraphqL: De-mystifying Node ID - Soon Hin Khor](https://medium.com/code-oil/relay-graphql-de-mystifying-node-id-38757121b9c)
+ 
+**[⬆ Back to Top](#table-of-contents)**
+
+
+## 15. Schema Definition Language - SDL
 
 ### Articles
 
@@ -297,6 +291,15 @@ All the translations for this repo will be listed below:
  * 📜 [Three ways to represent your GraphQL schema - Sashko Stubailo](https://blog.apollographql.com/three-ways-to-represent-your-graphql-schema-a41f4175100d)
  * 📜 [A GraphQL SDL Reference - Alligator](https://alligator.io/graphql/graphql-sdl/)
  
+
+**[⬆ Back to Top](#table-of-contents)**
+
+
+## 16. GraphQLSchema object
+
+### Articles
+
+ * 📜 [GraphQL.js GraphQLSchema object - Sashko Stubailo](https://blog.apollographql.com/three-ways-to-represent-your-graphql-schema-a41f4175100d) 
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -374,7 +377,17 @@ All the translations for this repo will be listed below:
 
 
 
-## 21. Databases
+## 21. Info Object
+
+### Articles
+
+ * 📜 [GraphQL Server Basics: Demystifying the info Argument in GraphQL Resolvers](https://www.prisma.io/blog/graphql-server-basics-demystifying-the-info-argument-in-graphql-resolvers-6f26249f613a/)
+ 
+**[⬆ Back to Top](#table-of-contents)**
+
+
+
+## 22. Databases
 
 ### Articles
 
@@ -394,7 +407,7 @@ All the translations for this repo will be listed below:
 
 
 
-## 22. Dataloader
+## 23. Dataloader
 
 ### Articles
 
@@ -410,28 +423,19 @@ All the translations for this repo will be listed below:
 
 
 
-## 23. Entry Points
+## 24. Entry Points
 
 ### Articles
 
  * 📜 [API Reference: entry points — GraphQL](https://graphql.org/graphql-js/graphql/#entry-point)
+ * 📜 [Adding a GraphQL endpoint - Apollo Documentation](https://www.apollographql.com/docs/apollo-server/v1/setup.html)
+ * 📜 [Running a scalable & reliable GraphQL endpoint with Serverless - Siddharth Gupta](https://serverless.com/blog/running-scalable-reliable-graphql-endpoint-with-serverless/)
+ * 📜 [Serving over HTTP: Endpoints - Graphql.org](https://graphql.org/learn/serving-over-http/)
 
 ### Videos
 
  * 🎥 [ContentaJS GraphQL 3 - The GraphQL entry points — Mateu](https://www.youtube.com/watch?v=7eLsfIZYuvU)
 
-**[⬆ Back to Top](#table-of-contents)**
-
-
-
-## 24. Endpoints
-
-### Articles
-
- * 📜 [Adding a GraphQL endpoint - Apollo Documentation](https://www.apollographql.com/docs/apollo-server/v1/setup.html)
- * 📜 [Running a scalable & reliable GraphQL endpoint with Serverless - Siddharth Gupta](https://serverless.com/blog/running-scalable-reliable-graphql-endpoint-with-serverless/)
- * 📜 [Serving over HTTP: Endpoints - Graphql.org](https://graphql.org/learn/serving-over-http/)
- 
 **[⬆ Back to Top](#table-of-contents)**
 
 
@@ -454,6 +458,7 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
+
 ## 26. SDL First
 
 ### Articles
@@ -467,6 +472,7 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 
+
 ## 27. Code First
 
 ### Articles
@@ -474,8 +480,6 @@ All the translations for this repo will be listed below:
  * 📜 [Code-first - Hot Chocolate](https://hotchocolate.io/docs/code-first)
  * 📜 [Introducing GraphQL Nexus Code First GraphQL Server Development - Prisma](https://www.prisma.io/blog/introducing-graphql-nexus-code-first-graphql-server-development-ll6s1yy5cxl5/)
  * 📜 [The Problems of Schema-First GraphQL - Prisma](https://www.prisma.io/blog/the-problems-of-schema-first-graphql-development-x1mn4cb0tyl3)
- 
-
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -489,7 +493,6 @@ All the translations for this repo will be listed below:
  * 📜 [Authentification and express middleware - Graphql.org](https://graphql.org/graphql-js/authentication-and-express-middleware/)
  
 
-
  ### Videos
 
  * 🎥 [GraphQL Middleware - Ben Awad](https://www.youtube.com/watch?v=0npsaFdrrFw)
@@ -497,7 +500,6 @@ All the translations for this repo will be listed below:
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
-
 
 # Client
 
@@ -507,6 +509,7 @@ All the translations for this repo will be listed below:
 ### Articles
 
  * 📜 [4 simple ways to call a GraphQL API - Sashko Stubailo](https://blog.apollographql.com/4-simple-ways-to-call-a-graphql-api-a6807bcdb355)
+
 
   ### Videos
 
@@ -525,6 +528,7 @@ All the translations for this repo will be listed below:
  * 📜 [How to query your schema with GraphQL fragments - David Mráz](https://medium.com/graphql-mastery/graphql-fragments-and-how-to-use-them-8ee30b44f59e)
  * 📜 [GraphQL Fragments are the Best Match for UI Components - Samer Buna](https://www.manifold.co/blog/graphql-fragments-are-the-best-match-for-ui-components-72b8f61c20fe)
 
+
  ### Videos
 
  * 🎥 [How GraphQL Fragments Work - Ben Awad](https://www.youtube.com/watch?v=AAHR7eBKLU8)
@@ -539,6 +543,8 @@ All the translations for this repo will be listed below:
 
  * 📜 [GraphQL Tour: Variables - Clay Allsop](https://medium.com/the-graphqlhub/graphql-tour-variables-58c6abd10f56)
  * 📜 [Introduction to GraphQL: GraphQL Variables - Flavioscopes](https://flaviocopes.com/graphql/#graphql-variables)
+ 
+ 
  ### Videos
 
  * 🎥 [GraphQL Tutorial #32: Query variables - The Net Ninja](https://www.youtube.com/watch?v=Rvx1HLMK1-U)
@@ -579,6 +585,7 @@ All the translations for this repo will be listed below:
  * 📜 [Learn Caching - Graphql.org](https://graphql.org/learn/caching/)
  * 📜 [Overview: GraphQL Query Parsing and Caching at the Edge - Monika Rathor](https://developer.akamai.com/blog/2018/10/29/overview-graphql-query-parsing-and-caching-edge)
 
+
 ### Videos
 
 * 🎥 [GraphQL Caching using DataLoader — Fun Fun Function](https://www.youtube.com/watch?v=--AguZ20lLA)
@@ -600,16 +607,26 @@ All the translations for this repo will be listed below:
  * 📜 [Writing a Graphql Schema - Eitan Frailich](https://github.com/davidyaha/graphql-workshop/blob/master/manuals/step-2-writing-a-schema.md)
  * 📜 [Abstract Demand Oriented Schema - Apollo](https://principledgraphql.com/agility#4-abstract-demand-oriented-schema)  
  
+ 
  ### Videos
 
 * 🎥 [GraphQL Schema Design — Marc-André Giroux](https://www.youtube.com/watch?v=pJamhW2xPYw)
-
 
 **[⬆ Back to Top](#table-of-contents)**
 
 
 
-## 36. Logging
+## 36. Pagination
+
+### Articles
+
+ * 📜 [Pagination](https://graphql.org/learn/pagination/) 
+
+**[⬆ Back to Top](#table-of-contents)**
+
+
+
+## 37. Logging
 
 ### Articles
 
@@ -618,6 +635,8 @@ All the translations for this repo will be listed below:
  
 
 **[⬆ Back to Top](#table-of-contents)**
+
+
 
 ## Contributors
 
