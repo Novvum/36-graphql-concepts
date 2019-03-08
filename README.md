@@ -48,7 +48,7 @@ All the translations for this repo will be listed below:
 23. **[Dataloader](#23-dataloader)**
 24. **[Entry Points](#24-entry-points)**
 25. **[Schema Stitching](#25-schema-stitching)**
-26. **[Schema First](#26-schema-first)**
+26. **[SDL First](#26-sdl-first)**
 27. **[Code First](#27-code-first)**
 28. **[Middleware](#28-middleware)**
 
@@ -459,11 +459,11 @@ All the translations for this repo will be listed below:
 
 
 
-## 26. Schema First
+## 26. SDL First
 
 ### Articles
 
- * 📜 [Using a Schema-First Design As Your Single Source of Truth - Prisma](https://nordicapis.com/using-a-schema-first-design-as-your-single-source-of-truth/)
+ * 📜 [The Problems of "Schema-First" GraphQL Server Development - Prisma](https://www.prisma.io/blog/the-problems-of-schema-first-graphql-development-x1mn4cb0tyl3)
 
  ### Videos
 
