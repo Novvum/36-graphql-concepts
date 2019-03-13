@@ -1,5 +1,5 @@
 <h1 align="center">
-  36 Concepts Every GraphQL Developer Should Know - WIP
+  36 Concepts Every GraphQL Developer Should Know
   <br><br>
 </h1>
 
