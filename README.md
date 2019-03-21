@@ -547,8 +547,8 @@ All the translations for this repo will be listed below:
  
  ### Videos
 
- * 🎥 [GraphQL Tips: Query variables - Novvum](https://twitter.com/novvumio/status/1106283961892962305)
- * 🎥 [GraphQL Tutorial #32: Query variables - The Net Ninja](https://www.youtube.com/watch?v=Rvx1HLMK1-U)
+ * 🎥 [GraphQL Tips: Query Variables - Novvum](https://twitter.com/novvumio/status/1106283961892962305)
+ * 🎥 [GraphQL Tutorial #32: Query Variables - The Net Ninja](https://www.youtube.com/watch?v=Rvx1HLMK1-U)
  * 🎥 [GraphQL Tips: Default Values for Variables - Novvum](https://twitter.com/novvumio/status/1108821324363763712)
 
 **[⬆ Back to Top](#table-of-contents)**
