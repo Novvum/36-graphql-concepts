@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="www/source/images/fullLogo.png" width="350px"/>
+  <img src="docs/source/images/fullLogo.png" width="350px"/>
   <br/>
   <br/>
   36 Concepts Every GraphQL Developer Should Know
