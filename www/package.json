@@ -3,7 +3,7 @@
 	"scripts": {
 		"deploy": "discharge deploy",
 		"dev": "charge serve source",
-		"build": "charge build source dist"
+		"build": "charge build source ../docs"
 	},
 	"devDependencies": {
 		"@static/charge": "^1.1.0",
