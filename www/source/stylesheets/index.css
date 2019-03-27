@@ -1,0 +1,379 @@
+@import url(https://cdn.jsdelivr.net/gh/tonsky/FiraCode@1.206/distr/fira_code.css);
+
+@import "../../node_modules/modern-normalize";
+
+@import './colorspaces.css';
+
+@import './dracula.css';
+
+
+:root {
+	--transition: all 100ms ease-in-out;
+	--transform-scale: scale(1.05);
+	--background: #282a36;
+	--current: #44475a;
+	--selection: #44475a;
+	--foreground: #f8f8f2;
+	--comment: #6272a4;
+	--faded: #bcc2cd;
+	--cyan: #8be9fd;
+	--green: #50fa7b;
+	--orange: #ffb86c;
+	--pink: #ff79c6;
+	--purple: #bd93f9;
+	--red: #ff5555;
+	--yellow: #f1fa8c;
+}
+
+
+@keyframes fade-in {
+	0% {
+		opacity: 0;
+	}
+	25% {
+		opacity: 0;
+	}
+	50% {
+		opacity: 0;
+	}
+	75% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
+a {
+	color: var(--purple);
+	text-decoration: none;
+	
+}
+
+
+@media (height >= 1000px) {
+	header {
+		height: 1000px;
+	}
+}
+
+@media (--medium-viewport) {
+	header h1 {
+		font-size: 2.5rem
+	}
+}
+
+@media (--large-viewport) {
+	header h1 {
+		font-size: 3rem
+	}
+}
+
+
+
+body {
+  animation-duration: 0.75s;
+  animation-name: fade-in;
+	font-family: 'Fira Code', sans-serif;
+	background-color: var(--background);
+  color: var(--foreground);
+	display: grid;
+  grid-auto-rows: 1fr; 
+  grid-template-areas: "main nav";
+  grid-template-columns: auto;
+  margin: 0;
+}
+
+h1 {
+	color: var(--foreground);
+}
+
+h2 {
+	color: var(--cyan);
+}
+
+h3 {
+	color: var(--green);
+}
+
+header {
+	height: 100vh;
+	margin: 0 auto;
+	max-width: 900px;
+	position: relative;
+}
+
+header h1 {
+	top: 30%;
+	position: relative;
+	font-size: 1.8rem;
+	font-weight: 600;
+	line-height: 1.5;
+	text-align: center;
+}
+
+@media (--medium-viewport) {
+  header h1 {
+    font-size: 2.5rem
+  }
+}
+
+@media (--large-viewport) {
+  header h1 {
+    font-size: 3rem
+  }
+}
+
+@supports (-webkit-overflow-scrolling: touch) {
+	header h1 {
+		top: 18%;
+	}
+}
+
+@media (--medium-viewport) {
+	header h1 {
+		font-size: 2.5rem
+	}
+}
+
+@media (--large-viewport) {
+	header h1 {
+		font-size: 3rem
+	}
+}
+
+
+.resources {
+  display: grid;
+  grid-gap: 4rem 2rem;
+  grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+}
+
+.card-list {
+		display: flex;
+		flex-wrap: wrap;
+		height: auto;
+		width: 80%;
+		min-width: 300px;
+		align-items: center;
+		background-color: var(--background);
+		color: var(--foreground);
+		margin: auto;
+		padding: 1rem;
+		border-radius: 0.42857em;
+}
+
+
+.card-list img {
+	object-fit: contain;
+	height: 100%;
+	margin-right: 1rem;
+	width: 100%;
+}
+
+.card {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	height: auto;
+	width: 80%;
+	justify-content: center;
+	margin: auto;
+	border-radius: 0.42857em;
+	border: 1px solid var(--red);
+
+}
+
+.card img {
+	width: 100%;
+  height: auto;
+  margin: auto;
+   transition: var(--transition);
+}
+
+.card a {
+	flex: 1;
+	flex-direction: column;
+	align-items: center;
+	padding: 1rem;
+	flex-wrap: wrap;
+	text-decoration: none;	
+}
+
+.card a strong {
+ color: var(--foreground);
+}
+
+html,
+body {
+  height: 100%;
+}
+
+html {
+  line-height: 1.5;
+}
+
+a {
+  color: var(--purple);
+}
+
+a:hover {
+  color:var(--pink);
+}
+
+main {
+  grid-area: main;
+  overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
+  padding: 4rem 20px;
+  padding-bottom: 0;
+  position: relative;
+}
+
+/* Fixes bottom padding not showing on a scroll container in Firefox */
+main:after {
+  content: "";
+  display: block;
+  height: 4rem;
+}
+
+main h1:first-child,
+main h2:first-child {
+  margin-top: 0;
+}
+
+nav {
+  background-color: #191a21;
+  display: none;
+  grid-area: nav;
+  padding: 30px 0;
+  overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
+}
+
+nav a {
+  display: block;
+  padding: 0.8em 1em 0.8em 2em;
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+nav a.active {
+  color: var(--pink);
+}
+
+.logo {
+  font-size: 3rem;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 700px;
+}
+
+@media only screen and (min-width: 800px) {
+  body {
+    grid-template-columns: auto minmax(auto, 220px);
+  }
+
+  nav {
+    display: block;
+  }
+}
+
+code {
+  background-color: var(--background);
+  border-radius: 2px;
+  padding: 0.2em;
+}
+
+.hljs {
+  background-color: var(--background);
+  border-radius: 5px;
+  padding: 1em;
+}
+
+pre code {
+  display: block;
+  overflow-x: auto;
+}
+
+.pagination {
+  display: flex;
+  margin-top: 5rem;
+}
+
+.pagination div:first-of-type {
+  flex-grow: 1;
+}
+
+.pagination a {
+  align-items: center;
+  display: inline-flex;
+}
+
+.button {
+  text-decoration: none;
+  border: 1px solid;
+  border-radius: 3px;
+  color: var(--yellow);
+  padding: 0.8em 1em;
+}
+
+
+
+.github {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+
+  color: var(--foreground);
+}
+
+.small-logo {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+
+@media only screen and (min-width: 800px) {
+  .mobile {
+    display: none;
+  }
+}
+
+.row {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;	
+	align-items: center;
+	
+}
+
+.row pre {
+	flex: 1;
+}
+
+.row pre:first-child, .row pre:first-child code {
+	border: solid 1px var(--pink);
+	border-radius: 5px;
+}
+
+.row pre:last-child, .row pre:last-child code, .results pre:last-child .code {
+	border: solid 1px var(--purple);
+	border-radius: 5px;
+}
+
+
+.col, .results {
+	flex: 1;
+	flex-direction: column;
+}
+
+.col pre:last-child {
+	border: solid 1px var(--comment);
+	border-radius: 5px;
+}
+

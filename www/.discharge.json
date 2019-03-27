@@ -1,0 +1,18 @@
+{
+	"domain": "36-concepts-graphql.github.io",
+	"upload_directory": "tmp/build",
+	"build_command": "charge build source tmp/build",
+	"index_key": "index.html",
+	"error_key": "404.html",
+	"cache": 300,
+	"redirects": [
+		{
+			"prefix_match": "/founderscard",
+			"destination": "/"
+		}
+	],
+	"aws_profile": "website-deployment",
+	"aws_region": "us-west-1",
+	"cdn": true,
+	"dns_configured": true
+}
