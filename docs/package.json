@@ -1,13 +1,15 @@
 {
 	"private": true,
 	"scripts": {
-		"deploy": "discharge deploy",
+		"discharge": "discharge deploy",
 		"dev": "charge serve source",
-		"build": "charge build source ../docs"
+		"build": "charge build source dist",
+		"deploy": "gh-pages -d dist"
 	},
 	"devDependencies": {
 		"@static/charge": "^1.1.0",
-		"@static/discharge": "^2.0.0"
+		"@static/discharge": "^2.0.0",
+		"gh-pages": "^2.0.1"
 	},
 	"dependencies": {
 		"modern-normalize": "^0.5.0",
