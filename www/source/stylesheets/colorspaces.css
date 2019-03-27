@@ -1,0 +1,153 @@
+.cyan h1 {
+  color: #8be9fd;
+}
+.cyan h2, .cyan h3 {
+  color: #50fa7b;
+}
+.cyan h4, .cyan h5, .cyan h6 {
+  color: #ffb86c;
+}
+.cyan a {
+  color: #8be9fd;
+}
+.cyan a:hover {
+  color: #27d6fb;
+}
+.cyan hr {
+  background: #8be9fd;
+}
+.cyan blockquote {
+  border-color: #8be9fd;
+}
+
+.green h1 {
+  color: #50fa7b;
+}
+.green h2, .green h3 {
+  color: #8be9fd;
+}
+.green h4, .green h5, .green h6 {
+  color: #f1fa8c;
+}
+.green a {
+  color: #50fa7b;
+}
+.green a:hover {
+  color: #06de3d;
+}
+.green hr {
+  background: #50fa7b;
+}
+.green blockquote {
+  border-color: #50fa7b;
+}
+
+.orange h1 {
+  color: #ffb86c;
+}
+.orange h2, .orange h3 {
+  color: #f1fa8c;
+}
+.orange h4, .orange h5, .orange h6 {
+  color: #50fa7b;
+}
+.orange a {
+  color: #ffb86c;
+}
+.orange a:hover {
+  color: #ff8706;
+}
+.orange hr {
+  background: #ffb86c;
+}
+.orange blockquote {
+  border-color: #ffb86c;
+}
+
+.pink h1 {
+  color: #ff79c6;
+}
+.pink h2, .pink h3 {
+  color: #bd93f9;
+}
+.pink h4, .pink h5, .pink h6 {
+  color: #ffb86c;
+}
+.pink a {
+  color: #ff79c6;
+}
+.pink a:hover {
+  color: #ff139b;
+}
+.pink hr {
+  background: #ff79c6;
+}
+.pink blockquote {
+  border-color: #ff79c6;
+}
+
+.purple h1 {
+  color: #bd93f9;
+}
+.purple h2, .purple h3 {
+  color: #50fa7b;
+}
+.purple h4, .purple h5, .purple h6 {
+  color: #8be9fd;
+}
+.purple a {
+  color: #bd93f9;
+}
+.purple a:hover {
+  color: #8232f4;
+}
+.purple hr {
+  background: #bd93f9;
+}
+.purple blockquote {
+  border-color: #bd93f9;
+}
+
+.red h1 {
+  color: #ff5555;
+}
+.red h2, .red h3 {
+  color: #f1fa8c;
+}
+.red h4, .red h5, .red h6 {
+  color: #ff79c6;
+}
+.red a {
+  color: #ff5555;
+}
+.red a:hover {
+  color: #ee0000;
+}
+.red hr {
+  background: #ff5555;
+}
+.red blockquote {
+  border-color: #ff5555;
+}
+
+.yellow h1 {
+  color: #f1fa8c;
+}
+.yellow h2, .yellow h3 {
+  color: #ff79c6;
+}
+.yellow h4, .yellow h5, .yellow h6 {
+  color: #50fa7b;
+}
+.yellow a {
+  color: #f1fa8c;
+}
+.yellow a:hover {
+  color: #e5f62a;
+}
+.yellow hr {
+  background: #f1fa8c;
+}
+.yellow blockquote {
+  border-color: #f1fa8c;
+}
