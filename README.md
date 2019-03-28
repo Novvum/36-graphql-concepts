@@ -10,7 +10,7 @@
 
 This repository was created with the intention of helping developers master their concepts in GraphQL. It is not a requirement, but a guide for future studies.
 
-Credit to https://github.com/leonardomso/33-js-concepts for the inspiration.
+Credit to @leonardomso's [33 JS Concepts Project](https://github.com/leonardomso/33-js-concepts) for the inspiration.
 
 Thanks to [@kelseyyim](https://github.com/kelseyyim) for getting this started!
 
