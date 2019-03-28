@@ -1,6 +1,8 @@
 <h1 align="center">
+  <a href="https://36-concepts-graphql.netlify.com/" target="_blank" style="text-decoration: none;">
   <img src="https://36-concepts-graphql.s3-us-west-1.amazonaws.com/images/fullLogo.png" width="350px"/>
-  <br/>
+  </a>
+<br/>
   <br/>
   36 Concepts Every GraphQL Developer Should Know
   <br><br>
