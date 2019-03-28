@@ -1,6 +1,6 @@
 @import url(https://cdn.jsdelivr.net/gh/tonsky/FiraCode@1.206/distr/fira_code.css);
 
-@import "../../node_modules/modern-normalize";
+@import "modern-normalize";
 
 @import './colorspaces.css';
 

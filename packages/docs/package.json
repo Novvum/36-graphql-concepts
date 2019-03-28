@@ -1,5 +1,6 @@
 {
-	"private": true,
+	"name": "docs",
+	"version": "1.0.0",
 	"scripts": {
 		"discharge": "discharge deploy",
 		"dev": "charge serve source",
