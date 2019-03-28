@@ -1,0 +1,12 @@
+{
+	"name": "36-graphql-concepts",
+	"private": true,
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "https://github.com/Novvum/36-graphql-concepts.git",
+	"author": "rajinwonderland <raj@novvuminc.com>",
+	"license": "MIT",
+	"workspaces": [
+		"packages/*"
+	]
+}

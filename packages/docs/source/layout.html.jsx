@@ -17,7 +17,7 @@ export default ({ children, currentPageID, environment, pages }) => {
 	let description =
 		'Created with the intention of helping developers master their concepts in GraphQL';
 
-	let baseURL = 'https://36-concepts-graphql.novvum.io';
+	let baseURL = 'http://36-concepts-graphql.s3-us-west-1.amazonaws.com';
 	let url = resolveURL(baseURL, currentPage.path);
 	if (url.endsWith('/')) {
 		url = url.slice(0, -1);
