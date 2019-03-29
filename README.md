@@ -255,6 +255,7 @@ All the translations for this repo will be listed below:
  
  ### Videos
 
+ * 🎥 [Query Directives - Novvum](https://twitter.com/novvumio/status/1111710417506783237)
  * 🎥 [Directives in GraphQL - FullStackHour](https://www.youtube.com/watch?v=HUKKNL2socs)
 
 **[⬆ Back to Top](#table-of-contents)**
