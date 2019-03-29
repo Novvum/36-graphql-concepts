@@ -248,13 +248,14 @@ All the translations for this repo will be listed below:
  * 📜 [GraphQL Directives - Abhi Aiyer](https://medium.com/open-graphql/graphql-directives-3dec6106c384)
  * 📜 [Use custom directives to protect your GraphQL APIs - David He](https://codeburst.io/use-custom-directives-to-protect-your-graphql-apis-a78cbbe17355)
  * 📜 [An introduction to GraphQL: Directives - Flavioscopes](https://flaviocopes.com/graphql/#graphql-directives)
- * 📜 [The Power of GraphQL Directives - Łukasz Czyszczonik](https://blog.callstack.io/the-power-of-graphql-directives-81f4987fd76d])
+ * 📜 [The Power of GraphQL Directives - Łukasz Czyszczonik](https://blog.callstack.io/the-power-of-graphql-directives-81f4987fd76d)
  * 📜 [Schema Directives - Apollo](https://www.apollographql.com/docs/graphql-tools/schema-directives.html)
  * 📜 [SDL Directives - GraphQLJava](https://www.graphql-java.com/documentation/v11/sdl-directives/)
  
  
  ### Videos
 
+ * 🎥 [Query Directives - Novvum](https://twitter.com/novvumio/status/1111710417506783237)
  * 🎥 [Directives in GraphQL - FullStackHour](https://www.youtube.com/watch?v=HUKKNL2socs)
 
 **[⬆ Back to Top](#table-of-contents)**
