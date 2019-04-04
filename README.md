@@ -214,6 +214,10 @@ All the translations for this repo will be listed below:
  * 📜 [Fields and arguments - flaviocopes](https://flaviocopes.com/graphql/#fields-and-arguments)
  * 📜 [Passing Arguments - GraphQL.org](https://graphql.org/graphql-js/passing-arguments/)
 
+ ### Videos
+
+ * 🎥 [Arguments - Novvum](https://twitter.com/novvumio/status/1113884737981100033) 
+
 **[⬆ Back to Top](#table-of-contents)**
 
 
