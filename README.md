@@ -573,6 +573,10 @@ All the translations for this repo will be listed below:
  * 📜 [How to use GraphQL aliases - GraphQL Mastery](https://medium.com/graphql-mastery/graphql-quick-tip-aliases-567303a9ddc5)
  * 📜 [More GraphQL Concepts: Aliases - HowtoGraphQL](https://www.howtographql.com/advanced/2-more-graphql-concepts/)
 
+ ### Videos
+ 
+* 🎥 [GraphQL Tips: Aliases - Novvum](https://twitter.com/novvumio/status/1116423304045264897)
+
 **[⬆ Back to Top](#table-of-contents)**
 
 
