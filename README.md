@@ -104,6 +104,8 @@ All the translations for this repo will be listed below:
  * 📜 [GraphQL mutations: Partial updates implementation - Arnaud Bezançon](https://medium.com/workflowgen/graphql-mutations-partial-updates-implementation-bff586bda989)
  * 📜 [Modeling GraphQL Mutations - Oleg Ilyenko](https://techblog.commercetools.com/modeling-graphql-mutations-52d4369f73b1)
  * 📜 [GraphQL Mutation Design: Anemic Mutations - Marc-André Giroux](https://medium.com/@__xuorig__/graphql-mutation-design-anemic-mutations-dd107ba70496)
+ * 📜 [Understanding GraphQL Mutations - Moon Highway](https://moonhighway.com/understanding-graphql-mutations?utm_source=dormosheio&utm_campaign=dormosheio)
+ 
  
  
  ### Videos
@@ -133,6 +135,7 @@ All the translations for this repo will be listed below:
  * 🎥 [Introducing GraphQL Subscriptions - Lee Byron](https://www.youtube.com/watch?v=bn8qsi8jVew)
  * 🎥 [How to build a Realtime Chat with GraphQL Subscriptions and Apollo - Prisma](https://www.youtube.com/watch?v=aSLF9f13o2c)
  * 🎥 [How to setup GraphQL Subscriptions Nodejs - Ben Awad](https://www.youtube.com/watch?v=XmNmiBfk6M4)
+ * 🎥 [How to add Authentication to your GraphQL Subscriptions - Ben Awad](https://www.youtube.com/watch?v=EuaVr7vFF5E)
  
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -297,6 +300,7 @@ All the translations for this repo will be listed below:
 
 ### Articles
 
+ * 📜 [Defining Graph Database Schemas by using the GraphQL Schema Definition Language - Olaf Hartig](http://blog.liu.se/olafhartig/documents/graphql-schemas-for-property-graphs/)
  * 📜 [GraphQL SDL, Schema Definition Language - Prisma Documentation](https://www.prisma.io/blog/graphql-sdl-schema-definition-language-6755bcb9ce51)
  * 📜 [Three ways to represent your GraphQL schema - Sashko Stubailo](https://blog.apollographql.com/three-ways-to-represent-your-graphql-schema-a41f4175100d)
  * 📜 [A GraphQL SDL Reference - Alligator](https://alligator.io/graphql/graphql-sdl/)
@@ -330,6 +334,7 @@ All the translations for this repo will be listed below:
 
 ### Videos
 
+ * 🎥 [Single GraphQL Server with Multiple Endpoints and Databases — Ben Awad](https://www.youtube.com/watch?v=glsK0PBMjJs)
  * 🎥 [Building a GraphQL Server [Part 1] — Traversy Media](https://www.youtube.com/watch?v=PEcJxkylcRM)
  * 🎥 [Building a GraphQL Server with TypeScript](https://www.youtube.com/watch?v=20zGexpEitc)
  * 🎥 [Learn how to build an API using GraphQL with Apollo Server 2.0 — Fireship](https://www.youtube.com/watch?v=8D9XnnjFGMs)
@@ -474,6 +479,8 @@ All the translations for this repo will be listed below:
 ### Articles
 
  * 📜 [The Problems of "Schema-First" GraphQL Server Development - Prisma](https://www.prisma.io/blog/the-problems-of-schema-first-graphql-development-x1mn4cb0tyl3)
+ * 📜 [Schema-First GraphqL: The Road Less Travelled - Jakub Draganek](https://blog.mirumee.com/schema-first-graphql-the-road-less-travelled-cf0e50d5ccff)
+ 
 
  ### Videos
 
@@ -595,6 +602,7 @@ All the translations for this repo will be listed below:
 
 ### Articles
 
+ * 📜 [A Different Approach to GraphQL Caching - Adam Reacts](https://adamrackis.dev/graphql-caching-and-micro/)
  * 📜 [Understanding Caching - Weblab Technology](https://medium.com/p/58756ff253d8#9388)
  * 📜 [Caching with GraphQl: What are the best options? - Will Howard](https://blog.usejournal.com/caching-with-graphql-what-are-the-best-options-e161b0f20e59)
  * 📜 [GraphQL VS Rest: Caching - Phil Sturgeon](https://philsturgeon.uk/api/2017/01/26/graphql-vs-rest-caching/)
