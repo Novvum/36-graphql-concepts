@@ -485,7 +485,8 @@ All the translations for this repo will be listed below:
  ### Videos
 
  * 🎥 [Schema First Development - Prisma](https://www.youtube.com/watch?v=SdWI7XaAeeY)
-
+ * 🎥 [Schema-first vs. Code-first - Mirumee Labs](https://www.youtube.com/watch?v=Vmv0yC-7aKY)
+ 
 **[⬆ Back to Top](#table-of-contents)**
 
 
@@ -513,6 +514,7 @@ All the translations for this repo will be listed below:
  ### Videos
 
  * 🎥 [GraphQL Middleware - Ben Awad](https://www.youtube.com/watch?v=0npsaFdrrFw)
+ * 🎥 [GraphQL Middleware in 6 minutes - Jamie Barton](https://www.youtube.com/watch?v=5ydCPvrWRmg)
 
 **[⬆ Back to Top](#table-of-contents)**
 
