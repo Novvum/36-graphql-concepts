@@ -338,6 +338,7 @@ All the translations for this repo will be listed below:
  * 🎥 [Building a GraphQL Server [Part 1] — Traversy Media](https://www.youtube.com/watch?v=PEcJxkylcRM)
  * 🎥 [Building a GraphQL Server with TypeScript](https://www.youtube.com/watch?v=20zGexpEitc)
  * 🎥 [Learn how to build an API using GraphQL with Apollo Server 2.0 — Fireship](https://www.youtube.com/watch?v=8D9XnnjFGMs)
+ * 🎥 [Building Modern APIs with GraphQL - Robert Zhu](https://www.youtube.com/watch?v=bRnu7xvU1_Y)
  * 🎥 [GraphQL server tutorial for Node.js with SQL, MongoDB and REST — Apollo GraphQL](https://www.youtube.com/watch?v=PHabPhgRUuU)
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -463,6 +464,7 @@ All the translations for this repo will be listed below:
  * 📜 [GraphQL Stitching 101 - Artsy](http://artsy.github.io/blog/2018/12/11/GraphQL-Stitching/)
  * 📜 [Schema Stitching - Apollo Documentation](https://www.apollographql.com/docs/graphql-tools/schema-stitching.html)
  * 📜 [GraphQL Remote Schema Stitching in a Multi-Service Architecture - Suciu Vlad](https://medium.com/provablyfair/graphql-remote-schema-stitching-in-a-multi-service-architecture-ac329037f082)
+ * 📜 [Apollo Federation - Apollo](https://blog.apollographql.com/apollo-federation-f260cf525d21)
 
 ### Videos
 
