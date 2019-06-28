@@ -330,6 +330,7 @@ All the translations for this repo will be listed below:
  * 📜 [Your First GraphQL Server — Clay Allsopp](https://medium.com/the-graphqlhub/your-first-graphql-server-3c766ab4f0a2)
  * 📜 [Learn to build a GraphQL server with minimal effort — Ian Wilson](https://medium.freecodecamp.org/learn-to-build-a-graphql-server-with-minimal-effort-fc7fcabe8ebd)
  * 📜 [Building a GraphQL Server with Node.js — Angus Croll](https://itnext.io/building-a-graphql-server-with-node-js-and-express-f8ea78e831f9)
+ * 📜 [There and Back Again, A GraphQL Lifecycle Tale — Annie Lydens and Thomas Paresi](https://thoughtbot.com/blog/graphql-for-busy-people)
 
 
 ### Videos
@@ -612,6 +613,7 @@ All the translations for this repo will be listed below:
  * 📜 [GraphQL VS Rest: Caching - Phil Sturgeon](https://philsturgeon.uk/api/2017/01/26/graphql-vs-rest-caching/)
  * 📜 [Learn Caching - Graphql.org](https://graphql.org/learn/caching/)
  * 📜 [Overview: GraphQL Query Parsing and Caching at the Edge - Monika Rathor](https://developer.akamai.com/blog/2018/10/29/overview-graphql-query-parsing-and-caching-edge)
+ * 📜 [GraphQL & Caching: The Elephant in the Room - Marc-André Giroux](https://blog.apollographql.com/graphql-caching-the-elephant-in-the-room-11a3df0c23ad)
 
 
 ### Videos
