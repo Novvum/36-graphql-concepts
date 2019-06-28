@@ -371,8 +371,6 @@ All the translations for this repo will be listed below:
  * 📜 [GraphQL Resolvers: Best Practices - Mark Stuart](https://medium.com/paypal-engineering/graphql-resolvers-best-practices-cd36fdbcef55)
  * 📜 [Overview of Resolvers - Graphcool Documentation](https://www.graph.cool/docs/reference/functions/resolvers-su6wu3yoo2)
  * 📜 [GraphQL Server Basics: GraphQL Schemas, TypeDefs & Resolvers Explained - Prisma](https://www.prisma.io/blog/graphql-server-basics-the-schema-ac5e2950214e)
- * 📜 [GraphQL Resolvers: Best Practices - Mark Stuart](https://medium.com/paypal-engineering/graphql-resolvers-best-practices-cd36fdbcef55)
- 
  
  ### Videos
 
