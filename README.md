@@ -427,6 +427,7 @@ All the translations for this repo will be listed below:
 ### Articles
 
  * 📜 [Using dataloader with GraphQL: A Concrete Example — John Tucker](https://codeburst.io/using-dataloader-with-graphql-a-concrete-example-9b21352f1676)
+ * 📜 [The GraphQL Dataloader Pattern: Visualized — Marc-André Giroux](https://medium.com/@__xuorig__/the-graphql-dataloader-pattern-visualized-3064a00f319f)
 
 
 ### Videos
