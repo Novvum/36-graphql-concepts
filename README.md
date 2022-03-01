@@ -649,7 +649,13 @@ All the translations for this repo will be listed below:
 
 ### Articles
 
- * 📜 [Pagination](https://graphql.org/learn/pagination/) 
+ * 📜 [Pagination](https://graphql.org/learn/pagination/)
+ * 📜 [Cursor-based Pagination](https://medium.com/swlh/how-to-implement-cursor-pagination-like-a-pro-513140b65f32)
+ * 📜 [Set up GraphQL Server to Relay Spec](https://relay.dev/docs/guides/graphql-server-specification/)
+ * 📜 [GraphQL Cursor Connections Specification](https://relay.dev/graphql/connections.htm#sec-Pagination-algorithm)
+ * 📜 [Cursors in Ruby](https://graphql-ruby.org/pagination/cursors.html)
+ * 📜 [How to GraphQL: Pagination](https://www.howtographql.com/graphql-java/10-pagination/)
+ * 📜 [Relay-style Cursor Pagination](https://www.apollographql.com/docs/react/pagination/cursor-based/#relay-style-cursor-pagination)
 
 **[⬆ Back to Top](#table-of-contents)**
 
