@@ -81,7 +81,6 @@ All the translations for this repo will be listed below:
  * 📜 [Queries and Mutations - Graphql.org](https://graphql.org/learn/queries/)
  * 📜 [The Anatomy of a Graphql Query — Sashko Stubailo](https://blog.apollographql.com/the-anatomy-of-a-graphql-query-6dffa9e9e747)
  * 📜 [Front End Queries Made Easy - Rasheed Bustamam](https://medium.freecodecamp.org/graphql-front-end-queries-made-easy-68e9d9ded283)
- * 📜 [An Introduction to Graphql Queries - Alligator.io](https://alligator.io/graphql/introduction-graphql-queries/)
  * 📜 [Examples for GraphQL-Queries and Mutations - predict8](https://www.predic8.de/graphql-query-samples.htm)
  
  
